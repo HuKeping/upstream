@@ -1,0 +1,4 @@
+---
+cJSON:
+    upstream: https://github.com/DaveGamble/cJSON.git
+    SCM: git
