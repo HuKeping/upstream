@@ -2,3 +2,7 @@
 cJSON:
     upstream: https://github.com/DaveGamble/cJSON.git
     SCM: git
+
+bzip2:
+    upstream: https://sourceware.org/git/bzip2.git
+    SCM: git
