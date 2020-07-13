@@ -6,3 +6,11 @@ cJSON:
 bzip2:
     upstream: https://sourceware.org/git/bzip2.git
     SCM: git
+
+keyutils:
+    upstream: https://git.kernel.org/pub/scm/linux/kernel/git/dhowells/keyutils.git
+    SCM: git
+
+pixman:
+    upstream: https://gitlab.freedesktop.org/pixman/pixman.git
+    SCM: git
