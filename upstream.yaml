@@ -1,16 +1,144 @@
 ---
 cJSON:
-    upstream: https://github.com/DaveGamble/cJSON.git
-    SCM: git
+  upstream: https://github.com/DaveGamble/cJSON.git
+  SCM: git
 
 bzip2:
-    upstream: https://sourceware.org/git/bzip2.git
-    SCM: git
+  upstream: https://sourceware.org/git/bzip2.git
+  SCM: git
 
 keyutils:
-    upstream: https://git.kernel.org/pub/scm/linux/kernel/git/dhowells/keyutils.git
-    SCM: git
+  upstream: https://git.kernel.org/pub/scm/linux/kernel/git/dhowells/keyutils.git
+  SCM: git
 
 pixman:
-    upstream: https://gitlab.freedesktop.org/pixman/pixman.git
-    SCM: git
+  upstream: https://gitlab.freedesktop.org/pixman/pixman.git
+  SCM: git
+
+python-caffe:
+  upstream: https://github.com/BVLC/caffe.git
+  SCM: git
+
+python-certifi:
+  upstream: https://github.com/certifi/python-certifi.git
+  SCM: git
+
+python-click:
+  upstream: https://github.com/pallets/click.git
+  SCM: git
+
+python-cmd2:
+  upstream: https://github.com/python-cmd2/cmd2.git
+  SCM: git
+
+python-cpython:
+  upstream: https://github.com/python/cpython.git
+  SCM: git
+
+python-dateutil:
+  upstream: https://github.com/dateutil/dateutil.git
+  SCM: git
+
+python-flask:
+  upstream: https://github.com/pallets/flask.git
+  SCM: git
+
+python-ipy:
+  upstream: https://github.com/autocracy/python-ipy.git
+  SCM: git
+
+python-itsdangerous:
+  upstream: https://github.com/pallets/itsdangerous.git
+  SCM: git
+
+python-jinja:
+  upstream: https://github.com/pallets/jinja.git
+  SCM: git
+
+python-jmespath.py:
+  upstream: https://github.com/jmespath/jmespath.py.git
+  SCM: git
+
+python-json-patch:
+  upstream: https://github.com/stefankoegl/python-json-patch.git
+  SCM: git
+
+python-json-pointer:
+  upstream: https://github.com/stefankoegl/python-json-pointer.git
+  SCM: git
+
+python-kazoo:
+  upstream: https://github.com/python-zk/kazoo.git
+  SCM: git
+
+python-markupsafe:
+  upstream: https://github.com/pallets/markupsafe.git
+  SCM: git
+
+python-numpy:
+  upstream: https://github.com/numpy/numpy.git
+  SCM: git
+
+python-paho.mqtt:
+  upstream: https://github.com/eclipse/paho.mqtt.python.git
+  SCM: git
+
+python-pandas:
+  upstream: https://github.com/pandas-dev/pandas.git
+  SCM: git
+
+python-psutil:
+  upstream: https://github.com/giampaolo/psutil.git
+  SCM: git
+
+python-pyasn1:
+  upstream: https://github.com/etingof/pyasn1.git
+  SCM: git
+
+python-pycryptodome:
+  upstream: https://github.com/Legrandin/pycryptodome.git
+  SCM: git
+
+python-pyopenssl:
+  upstream: https://github.com/pyca/pyopenssl.git
+  SCM: git
+
+python-pyparsing:
+  upstream: https://github.com/pyparsing/pyparsing.git
+  SCM: git
+
+python-pyserial:
+  upstream: https://github.com/pyserial/pyserial.git
+  SCM: git
+
+python-pysnmp:
+  upstream: https://github.com/etingof/pysnmp.git
+  SCM: git
+
+python-pytz:
+  upstream: https://github.com/stub42/pytz.git
+  SCM: git
+
+python-pyyaml:
+  upstream: https://github.com/yaml/pyyaml.git
+  SCM: git
+
+python-scikit-learn:
+  upstream: https://github.com/scikit-learn/scikit-learn.git
+  SCM: git
+
+python-scipy:
+  upstream: https://github.com/scipy/scipy.git
+  SCM: git
+
+python-setuptools:
+  upstream: https://github.com/pypa/setuptools.git
+  SCM: git
+
+python-tensorflow:
+  upstream: https://github.com/tensorflow/tensorflow.git
+  SCM: git
+
+python-tornado:
+  upstream: https://github.com/tornadoweb/tornado.git
+  SCM: git
