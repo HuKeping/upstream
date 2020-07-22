@@ -1,22 +1,1326 @@
 ---
-cJSON:
-  upstream: https://github.com/DaveGamble/cJSON.git
+abortcontroller-polyfill:
+  upstream: https://github.com/mo/abortcontroller-polyfill.git
+  SCM: git
+
+ACE_TAO:
+  upstream: https://github.com/DOCGroup/ACE_TAO.git
+  SCM: git
+
+acorn:
+  upstream: https://github.com/acornjs/acorn.git
+  SCM: git
+
+Activiti:
+  upstream: https://github.com/Activiti/Activiti.git
+  SCM: git
+
+add-asset-html-webpack-plugin:
+  upstream: https://github.com/SimenB/add-asset-html-webpack-plugin.git
+  SCM: git
+
+adt-tools-base:
+  upstream: https://github.com/JetBrains/adt-tools-base.git
+  SCM: git
+
+alsa-lib:
+  upstream: https://github.com/alsa-project/alsa-lib.git
+  SCM: git
+
+android-nn-driver:
+  upstream: https://github.com/ARM-software/android-nn-driver.git
+  SCM: git
+
+android:
+  upstream: https://github.com/JetBrains/android.git
+  SCM: git
+
+angular.js:
+  upstream: https://github.com/angular/angular.js.git
+  SCM: git
+
+antlr4:
+  upstream: https://github.com/antlr/antlr4.git
+  SCM: git
+
+archaius:
+  upstream: https://github.com/Netflix/archaius.git
+  SCM: git
+
+armnn:
+  upstream: https://github.com/ARM-software/armnn.git
+  SCM: git
+
+arptables:
+  upstream: http://git.netfilter.org/arptables
+  SCM: git
+
+asm:
+  upstream: https://gitlab.ow2.org/asm/asm.git
+  SCM: git
+
+atmosphere-javascript:
+  upstream: https://github.com/Atmosphere/atmosphere-javascript.git
+  SCM: git
+
+attr:
+  upstream: https://git.savannah.nongnu.org/git/attr.git
+  SCM: git
+
+audit-userspace:
+  upstream: https://github.com/linux-audit/audit-userspace.git
+  SCM: git
+
+autofdo:
+  upstream: https://github.com/google/autofdo.git
+  SCM: git
+
+autoprefixer:
+  upstream: https://github.com/postcss/autoprefixer.git
+  SCM: git
+
+axios:
+  upstream: https://github.com/axios/axios.git
+  SCM: git
+
+babel-loader:
+  upstream: https://github.com/babel/babel-loader.git
+  SCM: git
+
+babel-plugin-root-import:
+  upstream: https://github.com/entwicklerstube/babel-plugin-root-import.git
+  SCM: git
+
+bash:
+  upstream: https://git.savannah.gnu.org/git/bash.git
+  SCM: git
+
+better-scroll:
+  upstream: https://github.com/ustbhuangyi/better-scroll.git
+  SCM: git
+
+binutils-gdb:
+  upstream: git://sourceware.org/git/binutils-gdb.git
+  SCM: git
+
+body-parser:
+  upstream: https://github.com/expressjs/body-parser.git
+  SCM: git
+
+bootstrap:
+  upstream: https://github.com/twbs/bootstrap.git
+  SCM: git
+
+brave:
+  upstream: https://github.com/openzipkin/brave.git
+  SCM: git
+
+brotli:
+  upstream: https://github.com/google/brotli.git
+  SCM: git
+
+bson4jackson:
+  upstream: https://github.com/michel-kraemer/bson4jackson.git
+  SCM: git
+
+busybox:
+  upstream: https://git.busybox.net/busybox
   SCM: git
 
 bzip2:
   upstream: https://sourceware.org/git/bzip2.git
   SCM: git
 
+cachetools:
+  upstream: https://github.com/tkem/cachetools.git
+  SCM: git
+
+cadvisor:
+  upstream: https://github.com/google/cadvisor.git
+  SCM: git
+
+caffeine:
+  upstream: https://github.com/ben-manes/caffeine.git
+  SCM: git
+
+caffe:
+  upstream: https://github.com/BVLC/caffe.git
+  SCM: git
+
+cairo:
+  upstream: http://git.cairographics.org/git/cairo
+  SCM: git
+
+c-ares:
+  upstream: https://github.com/c-ares/c-ares.git
+  SCM: git
+
+cglib:
+  upstream: https://github.com/cglib/cglib.git
+  SCM: git
+
+chardet:
+  upstream: https://github.com/chardet/chardet.git
+  SCM: git
+
+cJSON:
+  upstream: https://github.com/DaveGamble/cJSON.git
+  SCM: git
+
+classnames:
+  upstream: https://github.com/JedWatson/classnames.git
+  SCM: git
+
+ClickHouse:
+  upstream: https://github.com/ClickHouse/ClickHouse.git
+  SCM: git
+
+click:
+  upstream: https://github.com/pallets/click.git
+  SCM: git
+
+cmake:
+  upstream: https://gitlab.kitware.com/cmake/cmake.git
+  SCM: git
+
+cmd2:
+  upstream: https://github.com/python-cmd2/cmd2.git
+  SCM: git
+
+commons-compress:
+  upstream: https://gitbox.apache.org/repos/asf/commons-compress.git
+  SCM: git
+
+commons-configuration:
+  upstream: https://gitbox.apache.org/repos/asf/commons-configuration.git
+  SCM: git
+
+commons-csv:
+  upstream: https://git-wip-us.apache.org/repos/asf/commons-csv.git
+  SCM: git
+
+commons-io:
+  upstream: https://gitbox.apache.org/repos/asf/commons-io.git
+  SCM: git
+
+commons-net:
+  upstream: http://gitbox.apache.org/repos/asf/commons-net.git
+  SCM: git
+
+ComputeLibrary:
+  upstream: https://github.com/ARM-software/ComputeLibrary.git
+  SCM: git
+
+concurrent-log-handler:
+  upstream: https://github.com/Preston-Landers/concurrent-log-handler.git
+  SCM: git
+
+conductor:
+  upstream: https://github.com/Netflix/conductor.git
+  SCM: git
+
+connected-react-router:
+  upstream: https://github.com/supasate/connected-react-router.git
+  SCM: git
+
+consul:
+  upstream: https://github.com/hashicorp/consul.git
+  SCM: git
+
+containerd:
+  upstream: https://github.com/containerd/containerd.git
+  SCM: git
+
+cookie-parser:
+  upstream: https://github.com/expressjs/cookie-parser.git
+  SCM: git
+
+copy-webpack-plugin:
+  upstream: https://github.com/webpack-contrib/copy-webpack-plugin.git
+  SCM: git
+
+core-js:
+  upstream: https://github.com/zloirock/core-js.git
+  SCM: git
+
+cpython:
+  upstream: https://github.com/python/cpython.git
+  SCM: git
+
+croniter:
+  upstream: https://github.com/taichino/croniter.git
+  SCM: git
+
+crypto-js:
+  upstream: https://github.com/brix/crypto-js.git
+  SCM: git
+
+css-loader:
+  upstream: https://github.com/webpack-contrib/css-loader.git
+  SCM: git
+
+cups:
+  upstream: https://github.com/apple/cups.git
+  SCM: git
+
+curl:
+  upstream: https://github.com/curl/curl.git
+  SCM: git
+
+cyrus-sasl:
+  upstream: https://github.com/cyrusimap/cyrus-sasl
+  SCM: git
+
+d3-hierarchy:
+  upstream: https://github.com/d3/d3-hierarchy.git
+  SCM: git
+
+dagre:
+  upstream: https://github.com/dagrejs/dagre.git
+  SCM: git
+
+dateutil:
+  upstream: https://github.com/dateutil/dateutil.git
+  SCM: git
+
+dbus:
+  upstream: https://gitlab.freedesktop.org/dbus/dbus.git
+  SCM: git
+
+debtcollector:
+  upstream: https://opendev.org/openstack/debtcollector.git
+  SCM: git
+
+decorator:
+  upstream: https://github.com/micheles/decorator.git
+  SCM: git
+
+defusedxml:
+  upstream: https://github.com/tiran/defusedxml.git
+  SCM: git
+
+dhcp:
+  upstream: https://gitlab.isc.org/isc-projects/dhcp.git
+  SCM: git
+
+disruptor:
+  upstream: https://github.com/LMAX-Exchange/disruptor.git
+  SCM: git
+
+dmlc-core:
+  upstream: https://github.com/dmlc/dmlc-core.git
+  SCM: git
+
+dnsmasq:
+  upstream: http://thekelleys.org.uk/git/dnsmasq.git
+  SCM: git
+
+docker-ce:
+  upstream: https://github.com/docker/docker-ce.git
+  SCM: git
+
+dogpile.cache:
+  upstream: https://github.com/sqlalchemy/dogpile.cache.git
+  SCM: git
+
+dom4j:
+  upstream: https://github.com/dom4j/dom4j.git
+  SCM: git
+
+dosfstools:
+  upstream: https://github.com/dosfstools/dosfstools.git
+  SCM: git
+
+dpdk:
+  upstream: http://dpdk.org/git/dpdk
+  SCM: git
+
+drm:
+  upstream: https://gitlab.freedesktop.org/mesa/drm.git
+  SCM: git
+
+druid:
+  upstream: https://github.com/apache/druid.git
+  SCM: git
+
+dtc:
+  upstream: https://git.kernel.org/pub/scm/utils/dtc/dtc.git
+  SCM: git
+
+e2fsprogs:
+  upstream: git://git.kernel.org/pub/scm/fs/ext2/e2fsprogs.git
+  SCM: git
+
+easyexcel:
+  upstream: https://github.com/alibaba/easyexcel.git
+  SCM: git
+
+ebtables:
+  upstream: http://git.netfilter.org/ebtables
+  SCM: git
+
+edk2:
+  upstream: https://github.com/tianocore/edk2.git
+  SCM: git
+
+eigen:
+  upstream: https://gitlab.com/libeigen/eigen.git
+  SCM: git
+
+etcd:
+  upstream: https://github.com/etcd-io/etcd.git
+  SCM: git
+
+ethtool:
+  upstream: git://git.kernel.org/pub/scm/network/ethtool/ethtool.git
+  SCM: git
+
+eudev:
+  upstream: https://github.com/gentoo/eudev.git
+  SCM: git
+
+fdk-aac:
+  upstream: https://github.com/mstorsjo/fdk-aac.git
+  SCM: git
+
+ffmpeg:
+  upstream: https://git.ffmpeg.org/ffmpeg.git
+  SCM: git
+
+flac:
+  upstream: https://github.com/xiph/flac.git
+  SCM: git
+
+flask:
+  upstream: https://github.com/pallets/flask.git
+  SCM: git
+
+flume:
+  upstream: https://gitbox.apache.org/repos/asf/flume.git
+  SCM: git
+
+fontconfig:
+  upstream: https://gitlab.freedesktop.org/fontconfig/fontconfig.git
+  SCM: git
+
+freetype2:
+  upstream: https://git.savannah.gnu.org/git/freetype/freetype2.git
+  SCM: git
+
+gcc:
+  upstream: https://gcc.gnu.org/git/gcc.git
+  SCM: git
+
+gdal:
+  upstream: https://github.com/OSGeo/gdal.git
+  SCM: git
+
+geos:
+  upstream: https://git.osgeo.org/gitea/geos/geos.git
+  SCM: git
+
+geotools:
+  upstream: https://github.com/geotools/geotools.git
+  SCM: git
+
+gflags:
+  upstream: https://github.com/gflags/gflags.git
+  SCM: git
+
+glibc:
+  upstream: https://sourceware.org/git/glibc.git
+  SCM: git
+
+GmSSL:
+  upstream: https://github.com/guanzhi/GmSSL.git
+  SCM: git
+
+gperftools:
+  upstream: https://github.com/gperftools/gperftools.git
+  SCM: git
+
+grpc-go:
+  upstream: https://github.com/grpc/grpc-go.git
+  SCM: git
+
+grpc:
+  upstream: https://github.com/grpc/grpc.git
+  SCM: git
+
+guava:
+  upstream: https://github.com/google/guava.git
+  SCM: git
+
+harfbuzz:
+  upstream: https://github.com/harfbuzz/harfbuzz.git
+  SCM: git
+
+haveged:
+  upstream: https://github.com/jirka-h/haveged.git
+  SCM: git
+
+hiredis:
+  upstream: https://github.com/redis/hiredis.git
+  SCM: git
+
+hostap:
+  upstream: git://w1.fi/hostap.git
+  SCM: git
+
+httpd:
+  upstream: https://github.com/apache/httpd
+  SCM: git
+
+http-parser:
+  upstream: https://github.com/nodejs/http-parser.git
+  SCM: git
+
+hunspell:
+  upstream: https://github.com/hunspell/hunspell.git
+  SCM: git
+
+IcedTea-Web:
+  upstream: https://github.com/AdoptOpenJDK/IcedTea-Web.git
+  SCM: git
+
+incubator-echarts:
+  upstream: https://gitbox.apache.org/repos/asf/incubator-echarts.git
+  SCM: git
+
+incubator-nuttx:
+  upstream: https://github.com/apache/incubator-nuttx.git
+  SCM: git
+
+inih:
+  upstream: https://github.com/benhoyt/inih.git
+  SCM: git
+
+iniparser:
+  upstream: https://github.com/ndevilla/iniparser.git
+  SCM: git
+
+intellij-community:
+  upstream: https://github.com/JetBrains/intellij-community.git
+  SCM: git
+
+ipset:
+  upstream: https://git.netfilter.org/ipset
+  SCM: git
+
+iptables:
+  upstream: https://git.netfilter.org/iptables
+  SCM: git
+
+ipvsadm:
+  upstream: git://git.kernel.org/pub/scm/utils/kernel/ipvsadm/ipvsadm.git
+  SCM: git
+
+isl:
+  upstream: https://repo.or.cz/isl.git
+  SCM: git
+
+itsdangerous:
+  upstream: https://github.com/pallets/itsdangerous.git
+  SCM: git
+
+iw:
+  upstream: git://git.kernel.org/pub/scm/linux/kernel/git/jberg/iw.git
+  SCM: git
+
+jansson:
+  upstream: https://github.com/akheron/jansson.git
+  SCM: git
+
+javassist:
+  upstream: https://github.com/jboss-javassist/javassist.git
+  SCM: git
+
+java-xmlbuilder:
+  upstream: https://github.com/jmurty/java-xmlbuilder.git
+  SCM: git
+
+jcommon:
+  upstream: https://github.com/jfree/jcommon.git
+  SCM: git
+
+jedis:
+  upstream: https://github.com/xetorthio/jedis.git
+  SCM: git
+
+jemalloc:
+  upstream: https://github.com/jemalloc/jemalloc.git
+  SCM: git
+
+jfreechart:
+  upstream: https://github.com/jfree/jfreechart.git
+  SCM: git
+
+jinja:
+  upstream: https://github.com/pallets/jinja.git
+  SCM: git
+
+jmespath.py:
+  upstream: https://github.com/jmespath/jmespath.py.git
+  SCM: git
+
+jna:
+  upstream: https://github.com/java-native-access/jna.git
+  SCM: git
+
+jquery-ui:
+  upstream: https://github.com/jquery/jquery-ui.git
+  SCM: git
+
+jquery:
+  upstream: https://github.com/jquery/jquery.git
+  SCM: git
+
+jsoncpp:
+  upstream: https://github.com/open-source-parsers/jsoncpp.git
+  SCM: git
+
+json-c:
+  upstream: https://github.com/json-c/json-c.git
+  SCM: git
+
+jsonschema:
+  upstream: https://github.com/Julian/jsonschema.git
+  SCM: git
+
+jsplumb:
+  upstream: https://github.com/jsplumb/jsplumb.git
+  SCM: git
+
+jsrsasign:
+  upstream: https://github.com/kjur/jsrsasign.git
+  SCM: git
+
+kafka:
+  upstream: https://gitbox.apache.org/repos/asf/kafka.git
+  SCM: git
+
+kazoo:
+  upstream: https://github.com/python-zk/kazoo.git
+  SCM: git
+
+keepalived:
+  upstream: https://github.com/acassen/keepalived.git
+  SCM: git
+
 keyutils:
-  upstream: https://git.kernel.org/pub/scm/linux/kernel/git/dhowells/keyutils.git
+  upstream: git://git.kernel.org/pub/scm/linux/kernel/git/dhowells/keyutils.git
+  SCM: git
+
+kissfft:
+  upstream: https://github.com/mborgerding/kissfft.git
+  SCM: git
+
+krb5:
+  upstream: https://github.com/krb5/krb5.git
+  SCM: git
+
+kubeedge:
+  upstream: https://github.com/kubeedge/kubeedge.git
+  SCM: git
+
+kubernetes:
+  upstream: https://github.com/kubernetes/kubernetes.git
+  SCM: git
+
+lftp:
+  upstream: https://github.com/lavv17/lftp.git
+  SCM: git
+
+libcap-ng:
+  upstream: https://github.com/stevegrubb/libcap-ng.git
+  SCM: git
+
+libcoap:
+  upstream: https://github.com/obgm/libcoap.git
+  SCM: git
+
+libestr:
+  upstream: https://github.com/rsyslog/libestr.git
+  SCM: git
+
+libevent:
+  upstream: https://github.com/libevent/libevent.git
+  SCM: git
+
+libfastjson:
+  upstream: https://github.com/rsyslog/libfastjson.git
+  SCM: git
+
+libffi:
+  upstream: https://github.com/libffi/libffi.git
+  SCM: git
+
+libgcrypt:
+  upstream: https://dev.gnupg.org/source/libgcrypt.git
+  SCM: git
+
+libgd:
+  upstream: https://github.com/libgd/libgd.git
+  SCM: git
+
+libgpg-error:
+  upstream: https://dev.gnupg.org/source/libgpg-error.git
+  SCM: git
+
+libjpeg-turbo:
+  upstream: https://github.com/libjpeg-turbo/libjpeg-turbo.git
+  SCM: git
+
+liblinear:
+  upstream: https://github.com/cjlin1/liblinear.git
+  SCM: git
+
+libnetfilter_conntrack:
+  upstream: http://git.netfilter.org/libnetfilter_conntrack.git
+  SCM: git
+
+libnl:
+  upstream: https://github.com/thom311/libnl.git
+  SCM: git
+
+libpcap:
+  upstream: https://github.com/the-tcpdump-group/libpcap.git
+  SCM: git
+
+libpng:
+  upstream: https://github.com/glennrp/libpng.git
+  SCM: git
+
+libsoup:
+  upstream: https://gitlab.gnome.org/GNOME/libsoup.git
+  SCM: git
+
+libssh2:
+  upstream: https://github.com/libssh2/libssh2.git
+  SCM: git
+
+libssh:
+  upstream: https://git.libssh.org/projects/libssh.git
+  SCM: git
+
+libtirpc:
+  upstream: git://git.linux-nfs.org/projects/steved/libtirpc.git
+  SCM: git
+
+libtpms:
+  upstream: https://github.com/stefanberger/libtpms.git
+  SCM: git
+
+libunwind:
+  upstream: https://github.com/libunwind/libunwind.git
+  SCM: git
+
+libwebp:
+  upstream: https://chromium.googlesource.com/webm/libwebp.git
+  SCM: git
+
+libwebsockets:
+  upstream: https://github.com/warmcat/libwebsockets.git
+  SCM: git
+
+libxml2:
+  upstream: https://gitlab.gnome.org/GNOME/libxml2.git
+  SCM: git
+
+libxslt:
+  upstream: https://gitlab.gnome.org/GNOME/libxslt.git
+  SCM: git
+
+libyaml:
+  upstream: https://github.com/yaml/libyaml.git
+  SCM: git
+
+libyang:
+  upstream: https://github.com/CESNET/libyang.git
+  SCM: git
+
+LightGBM:
+  upstream: https://github.com/microsoft/LightGBM.git
+  SCM: git
+
+linux-pam:
+  upstream: https://github.com/linux-pam/linux-pam
+  SCM: git
+
+linux:
+  upstream: https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git
+  SCM: git
+
+LiteOS:
+  upstream: https://github.com/LiteOS/LiteOS.git
+  SCM: git
+
+lldpd:
+  upstream: https://github.com/vincentbernat/lldpd.git
+  SCM: git
+
+llvm-project:
+  upstream: https://github.com/llvm/llvm-project.git
+  SCM: git
+
+logging-log4cxx:
+  upstream: http://gitbox.apache.org/repos/asf/logging-log4cxx.git
+  SCM: git
+
+lsof:
+  upstream: https://github.com/lsof-org/lsof.git
+  SCM: git
+
+lucene-solr:
+  upstream: https://gitbox.apache.org/repos/asf/lucene-solr.git
+  SCM: git
+
+lwip:
+  upstream: https://git.savannah.gnu.org/git/lwip.git
+  SCM: git
+
+lxml:
+  upstream: https://github.com/lxml/lxml.git
+  SCM: git
+
+lz4:
+  upstream: https://github.com/lz4/lz4.git
+  SCM: git
+
+mapserver:
+  upstream: https://github.com/mapserver/mapserver.git
+  SCM: git
+
+markupsafe:
+  upstream: https://github.com/pallets/markupsafe.git
+  SCM: git
+
+mbedtls:
+  upstream: https://github.com/ARMmbed/mbedtls.git
+  SCM: git
+
+mesos:
+  upstream: https://github.com/apache/mesos.git
+  SCM: git
+
+moosefs:
+  upstream: https://github.com/moosefs/moosefs.git
+  SCM: git
+
+mpc:
+  upstream: https://scm.gforge.inria.fr/anonscm/git/mpc/mpc.git
+  SCM: git
+
+musl:
+  upstream: git://git.musl-libc.org/musl
+  SCM: git
+
+mwe:
+  upstream: https://github.com/eclipse/mwe.git
+  SCM: git
+
+mysql-server:
+  upstream: https://github.com/mysql/mysql-server.git
+  SCM: git
+
+mysql:
+  upstream: https://github.com/go-sql-driver/mysql.git
+  SCM: git
+
+ncnn:
+  upstream: https://github.com/Tencent/ncnn.git
+  SCM: git
+
+netty-tcnative:
+  upstream: https://github.com/netty/netty-tcnative.git
+  SCM: git
+
+netty:
+  upstream: https://github.com/netty/netty.git
+  SCM: git
+
+newlib-cygwin:
+  upstream: git://sourceware.org/git/newlib-cygwin.git
+  SCM: git
+
+nfs-utils:
+  upstream: git://git.linux-nfs.org/projects/steved/nfs-utils.git
+  SCM: git
+
+nghttp2:
+  upstream: https://github.com/nghttp2/nghttp2.git
+  SCM: git
+
+noto-fonts:
+  upstream: https://github.com/googlefonts/noto-fonts.git
+  SCM: git
+
+noVNC:
+  upstream: https://github.com/novnc/noVNC.git
+  SCM: git
+
+numpy:
+  upstream: https://github.com/numpy/numpy.git
+  SCM: git
+
+nuttx:
+  upstream: https://bitbucket.org/nuttx/nuttx.git
+  SCM: git
+
+ogg:
+  upstream: https://github.com/xiph/ogg.git
+  SCM: git
+
+OpenBLAS:
+  upstream: https://github.com/xianyi/OpenBLAS.git
+  SCM: git
+
+opencv:
+  upstream: https://github.com/opencv/opencv.git
+  SCM: git
+
+openh264:
+  upstream: https://github.com/cisco/openh264.git
+  SCM: git
+
+openhpi:
+  upstream: https://github.com/open-hpi/openhpi.git
+  SCM: git
+
+openlayers:
+  upstream: https://github.com/openlayers/openlayers.git
+  SCM: git
+
+openldap:
+  upstream: https://git.openldap.org/openldap/openldap.git
+  SCM: git
+
+openssl:
+  upstream: https://github.com/openssl/openssl.git
+  SCM: git
+
+optee_client:
+  upstream: https://github.com/OP-TEE/optee_client.git
+  SCM: git
+
+optee_os:
+  upstream: https://github.com/OP-TEE/optee_os.git
+  SCM: git
+
+opus:
+  upstream: https://github.com/xiph/opus.git
+  SCM: git
+
+paho.mqtt.c:
+  upstream: https://github.com/eclipse/paho.mqtt.c.git
+  SCM: git
+
+paho.mqtt.python:
+  upstream: https://github.com/eclipse/paho.mqtt.python.git
+  SCM: git
+
+pandas:
+  upstream: https://github.com/pandas-dev/pandas.git
+  SCM: git
+
+pango:
+  upstream: https://gitlab.gnome.org/GNOME/pango.git
+  SCM: git
+
+pgaudit:
+  upstream: https://github.com/pgaudit/pgaudit.git
+  SCM: git
+
+pgjdbc:
+  upstream: https://github.com/pgjdbc/pgjdbc.git
+  SCM: git
+
+pgpool2:
+  upstream: https://git.postgresql.org/git/pgpool2.git
+  SCM: git
+
+pigz:
+  upstream: https://github.com/madler/pigz.git
   SCM: git
 
 pixman:
-  upstream: https://gitlab.freedesktop.org/pixman/pixman.git
+  upstream: git://anongit.freedesktop.org/git/pixman.git
   SCM: git
 
-python-caffe:
-  upstream: https://github.com/BVLC/caffe.git
+pjproject:
+  upstream: https://github.com/pjsip/pjproject.git
+  SCM: git
+
+poco:
+  upstream: https://github.com/pocoproject/poco.git
+  SCM: git
+
+poky:
+  upstream: https://git.yoctoproject.org/git/poky.git
+  SCM: git
+
+popper-core:
+  upstream: https://github.com/popperjs/popper-core.git
+  SCM: git
+
+postgis:
+  upstream: https://git.osgeo.org/gitea/postgis/postgis.git
+  SCM: git
+
+postgresql:
+  upstream: https://git.postgresql.org/git/postgresql.git
+  SCM: git
+
+procps:
+  upstream: https://gitlab.com/procps-ng/procps.git
+  SCM: git
+
+protoactor-go:
+  upstream: https://github.com/AsynkronIT/protoactor-go.git
+  SCM: git
+
+protobuf.js:
+  upstream: https://github.com/protobufjs/protobuf.js.git
+  SCM: git
+
+protobuf:
+  upstream: https://github.com/protocolbuffers/protobuf.git
+  SCM: git
+
+psutil:
+  upstream: https://github.com/giampaolo/psutil.git
+  SCM: git
+
+pulseaudio:
+  upstream: https://gitlab.freedesktop.org/pulseaudio/pulseaudio.git
+  SCM: git
+
+pupnp:
+  upstream: https://github.com/pupnp/pupnp
+  SCM: git
+
+pyasn1:
+  upstream: https://github.com/etingof/pyasn1.git
+  SCM: git
+
+pycryptodome:
+  upstream: https://github.com/Legrandin/pycryptodome.git
+  SCM: git
+
+pyopenssl:
+  upstream: https://github.com/pyca/pyopenssl.git
+  SCM: git
+
+pyparsing:
+  upstream: https://github.com/pyparsing/pyparsing.git
+  SCM: git
+
+pyserial:
+  upstream: https://github.com/pyserial/pyserial.git
+  SCM: git
+
+pysnmp:
+  upstream: https://github.com/etingof/pysnmp.git
+  SCM: git
+
+python-certifi:
+  upstream: https://github.com/certifi/python-certifi.git
+  SCM: git
+
+python-ipy:
+  upstream: https://github.com/autocracy/python-ipy.git
+  SCM: git
+
+python-json-patch:
+  upstream: https://github.com/stefankoegl/python-json-patch.git
+  SCM: git
+
+python-json-pointer:
+  upstream: https://github.com/stefankoegl/python-json-pointer.git
+  SCM: git
+
+pytz:
+  upstream: https://github.com/stub42/pytz.git
+  SCM: git
+
+pyyaml:
+  upstream: https://github.com/yaml/pyyaml.git
+  SCM: git
+
+rabit:
+  upstream: https://github.com/dmlc/rabit.git
+  SCM: git
+
+radvd:
+  upstream: https://github.com/reubenhwk/radvd.git
+  SCM: git
+
+rapidjson:
+  upstream: https://github.com/Tencent/rapidjson.git
+  SCM: git
+
+rdma-core:
+  upstream: https://github.com/linux-rdma/rdma-core.git
+  SCM: git
+
+re2:
+  upstream: https://github.com/google/re2.git
+  SCM: git
+
+readline:
+  upstream: https://git.savannah.gnu.org/git/readline.git
+  SCM: git
+
+redis:
+  upstream: https://github.com/antirez/redis.git
+  SCM: git
+
+requirejs:
+  upstream: https://github.com/requirejs/requirejs.git
+  SCM: git
+
+restlet-framework-java:
+  upstream: https://github.com/restlet/restlet-framework-java.git
+  SCM: git
+
+riscv-openocd:
+  upstream: https://github.com/riscv/riscv-openocd.git
+  SCM: git
+
+rpcbind:
+  upstream: git://git.linux-nfs.org/projects/steved/rpcbind.git
+  SCM: git
+
+rsync:
+  upstream: https://git.samba.org/rsync.git
+  SCM: git
+
+rsyslog:
+  upstream: https://github.com/rsyslog/rsyslog.git
+  SCM: git
+
+rt-thread:
+  upstream: https://github.com/RT-Thread/rt-thread.git
+  SCM: git
+
+runc:
+  upstream: https://github.com/opencontainers/runc.git
+  SCM: git
+
+scikit-learn:
+  upstream: https://github.com/scikit-learn/scikit-learn.git
+  SCM: git
+
+scipy:
+  upstream: https://github.com/scipy/scipy.git
+  SCM: git
+
+servicecomb-java-chassis:
+  upstream: https://gitbox.apache.org/repos/asf/servicecomb-java-chassis.git
+  SCM: git
+
+setuptools:
+  upstream: https://github.com/pypa/setuptools.git
+  SCM: git
+
+SharpZipLib:
+  upstream: https://github.com/icsharpcode/SharpZipLib.git
+  SCM: git
+
+sheetjs:
+  upstream: https://github.com/SheetJS/sheetjs.git
+  SCM: git
+
+simplejson:
+  upstream: https://github.com/simplejson/simplejson.git
+  SCM: git
+
+sjcl:
+  upstream: https://github.com/bitwiseshiftleft/sjcl.git
+  SCM: git
+
+slf4j:
+  upstream: https://github.com/qos-ch/slf4j.git
+  SCM: git
+
+snappy-java:
+  upstream: https://github.com/xerial/snappy-java.git
+  SCM: git
+
+snappy:
+  upstream: https://github.com/google/snappy.git
+  SCM: git
+
+spdk:
+  upstream: https://github.com/spdk/spdk.git
+  SCM: git
+
+spiffs:
+  upstream: https://github.com/pellepl/spiffs.git
+  SCM: git
+
+sqlcipher:
+  upstream: https://github.com/sqlcipher/sqlcipher.git
+  SCM: git
+
+squashfs-tools:
+  upstream: https://github.com/plougher/squashfs-tools.git
+  SCM: git
+
+stax2-api:
+  upstream: https://github.com/FasterXML/stax2-api.git
+  SCM: git
+
+stomp.py:
+  upstream: https://github.com/jasonrbriggs/stomp.py.git
+  SCM: git
+
+syslog-ng:
+  upstream: https://github.com/syslog-ng/syslog-ng.git
+  SCM: git
+
+sysstat:
+  upstream: https://github.com/sysstat/sysstat.git
+  SCM: git
+
+tcpdump:
+  upstream: https://github.com/the-tcpdump-group/tcpdump.git
+  SCM: git
+
+tensorflow:
+  upstream: https://github.com/tensorflow/tensorflow.git
+  SCM: git
+
+three.js:
+  upstream: https://github.com/mrdoob/three.js.git
+  SCM: git
+
+thrift:
+  upstream: https://gitbox.apache.org/repos/asf/thrift.git
+  SCM: git
+
+tiny-AES-c:
+  upstream: https://github.com/kokke/tiny-AES-c.git
+  SCM: git
+
+tinyxml2:
+  upstream: https://github.com/leethomason/tinyxml2.git
+  SCM: git
+
+tornado:
+  upstream: https://github.com/tornadoweb/tornado.git
+  SCM: git
+
+tpm2-tss:
+  upstream: https://github.com/tpm2-software/tpm2-tss.git
+  SCM: git
+
+trusted-firmware-a:
+  upstream: https://git.trustedfirmware.org/TF-A/trusted-firmware-a.git
+  SCM: git
+
+u-boot:
+  upstream: https://gitlab.denx.de/u-boot/u-boot.git
+  SCM: git
+
+ui-router:
+  upstream: https://github.com/angular-ui/ui-router.git
+  SCM: git
+
+underscore:
+  upstream: https://github.com/jashkenas/underscore.git
+  SCM: git
+
+urllib3:
+  upstream: https://github.com/urllib3/urllib3.git
+  SCM: git
+
+util-linux:
+  upstream: https://github.com/karelzak/util-linux.git
+  SCM: git
+
+uwsgi:
+  upstream: https://github.com/unbit/uwsgi.git
+  SCM: git
+
+vim:
+  upstream: https://github.com/vim/vim.git
+  SCM: git
+
+volcano:
+  upstream: https://github.com/volcano-sh/volcano.git
+  SCM: git
+
+vorbis:
+  upstream: https://github.com/xiph/vorbis.git
+  SCM: git
+
+websocket-client:
+  upstream: https://github.com/websocket-client/websocket-client.git
+  SCM: git
+
+websockify:
+  upstream: https://github.com/novnc/websockify.git
+  SCM: git
+
+werkzeug:
+  upstream: https://github.com/pallets/werkzeug.git
+  SCM: git
+
+wireshark:
+  upstream: https://code.wireshark.org/review/wireshark.git
+  SCM: git
+
+wxWidgets:
+  upstream: https://github.com/wxWidgets/wxWidgets.git
+  SCM: git
+
+XChart:
+  upstream: https://github.com/knowm/XChart.git
+  SCM: git
+
+xerces-c:
+  upstream: https://gitbox.apache.org/repos/asf/xerces-c.git
+  SCM: git
+
+xgboost:
+  upstream: https://github.com/dmlc/xgboost.git
+  SCM: git
+
+xmltodict:
+  upstream: https://github.com/martinblech/xmltodict.git
+  SCM: git
+
+xz-java:
+  upstream: https://git.tukaani.org/xz-java.git
+  SCM: git
+
+xz:
+  upstream: https://git.tukaani.org/xz.git
+  SCM: git
+
+zip4j:
+  upstream: https://github.com/srikanth-lingala/zip4j.git
+  SCM: git
+
+zip:
+  upstream: https://github.com/kuba--/zip.git
+  SCM: git
+
+zlib:
+  upstream: https://github.com/madler/zlib.git
+  SCM: git
+
+zookeeper:
+  upstream: https://gitbox.apache.org/repos/asf/zookeeper.git
+  SCM: git
+
+zstd:
+  upstream: https://github.com/facebook/zstd.git
+  SCM: git
+
+zTree_v3:
+  upstream: https://github.com/zTree/zTree_v3.git
   SCM: git
 
 python-certifi:
@@ -133,10 +1437,6 @@ python-scipy:
 
 python-setuptools:
   upstream: https://github.com/pypa/setuptools.git
-  SCM: git
-
-python-tensorflow:
-  upstream: https://github.com/tensorflow/tensorflow.git
   SCM: git
 
 python-tornado:
