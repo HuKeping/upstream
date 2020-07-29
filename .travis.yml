@@ -3,4 +3,4 @@ language: python
 python:
   - "3.5"
 
-script: sh validate_access.sh
+script: bash validate_access.bash
