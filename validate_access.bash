@@ -3,13 +3,12 @@
 set -e
 
 unshallow_list=(
+	"http://git.netfilter.org/ebtables"
 	"https://git.tukaani.org/xz-java.git"
 	"https://git.tukaani.org/xz.git"
 	"https://git.netfilter.org/arptables"
-	"http://git.netfilter.org/ebtables"
 	"https://git.netfilter.org/ipset"
 	"https://git.netfilter.org/iptables"
-	"http://git.netfilter.org/libnetfilter_conntrack"
 )
 
 declare -A unshallow_array
@@ -21,10 +20,12 @@ done
 
 for i in $(cat upstream.yaml | grep "upstream: " | awk '{print $NF}')
 do
+	echo "Sync $i ..."
+
 	if [[ ${unshallow_array[$i]} ]]
 	then
-		git clone $i
+		git clone -q $i
 	else
-		git clone --depth 1 $i
+		git clone -q --depth 1 $i
 	fi
 done
