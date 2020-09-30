@@ -914,6 +914,10 @@ mesos:
   upstream: https://github.com/apache/mesos.git
   SCM: git
 
+moby:
+  upstream: https://github.com/moby/moby.git
+  SCM: git
+
 mongo:
   upstream: https://github.com/mongodb/mongo.git
   SCM: git
@@ -959,6 +963,10 @@ netty-tcnative:
 
 newlib-cygwin:
   upstream: git://sourceware.org/git/newlib-cygwin.git
+  SCM: git
+
+notary:
+  upstream: https://github.com/theupdateframework/notary.git
   SCM: git
 
 nfs-utils:
