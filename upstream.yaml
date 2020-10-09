@@ -1244,11 +1244,6 @@ ntfs-3g-ntfs-3g:
   SCM: git
   Wandted: n
 
-nuttx:
-  upstream: https://bitbucket.org/nuttx/nuttx.git
-  SCM: git
-  Wandted: n
-
 ogg:
   upstream: https://github.com/xiph/ogg.git
   SCM: git
