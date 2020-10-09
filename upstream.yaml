@@ -1,358 +1,447 @@
 ACE_TAO:
   upstream: https://github.com/DOCGroup/ACE_TAO.git
   SCM: git
+  Wandted: n
 
 Activiti:
   upstream: https://github.com/Activiti/Activiti.git
   SCM: git
+  Wandted: n
 
 ClickHouse:
   upstream: https://github.com/ClickHouse/ClickHouse.git
   SCM: git
+  Wandted: n
 
 ComputeLibrary:
   upstream: https://github.com/ARM-software/ComputeLibrary.git
   SCM: git
+  Wandted: n
 
 GmSSL:
   upstream: https://github.com/guanzhi/GmSSL.git
   SCM: git
+  Wandted: n
 
 IcedTea-Web:
   upstream: https://github.com/AdoptOpenJDK/IcedTea-Web.git
   SCM: git
+  Wandted: n
 
 JRTPLIB:
   upstream: https://github.com/j0r1/JRTPLIB.git
   SCM: git
+  Wandted: n
 
 JThread:
   upstream: https://github.com/j0r1/JThread.git
   SCM: git
+  Wandted: n
 
 JetBrains-android:
   upstream: https://github.com/JetBrains/android.git
   SCM: git
+  Wandted: n
 
 LightGBM:
   upstream: https://github.com/microsoft/LightGBM.git
   SCM: git
+  Wandted: n
 
 LiteOS:
   upstream: https://github.com/LiteOS/LiteOS.git
   SCM: git
+  Wandted: n
 
 MediaSDK:
   upstream: https://github.com/Intel-Media-SDK/MediaSDK.git
   SCM: git
+  Wandted: n
 
 OpenBLAS:
   upstream: https://github.com/xianyi/OpenBLAS.git
   SCM: git
+  Wandted: n
 
 SharpZipLib:
   upstream: https://github.com/icsharpcode/SharpZipLib.git
   SCM: git
+  Wandted: n
 
 XChart:
   upstream: https://github.com/knowm/XChart.git
   SCM: git
+  Wandted: n
 
 abortcontroller-polyfill:
   upstream: https://github.com/mo/abortcontroller-polyfill.git
   SCM: git
+  Wandted: n
 
 acorn:
   upstream: https://github.com/acornjs/acorn.git
   SCM: git
+  Wandted: n
 
 add-asset-html-webpack-plugin:
   upstream: https://github.com/SimenB/add-asset-html-webpack-plugin.git
   SCM: git
+  Wandted: n
 
 adt-tools-base:
   upstream: https://github.com/JetBrains/adt-tools-base.git
   SCM: git
+  Wandted: n
 
 akka:
   upstream: https://github.com/akka/akka.git
   SCM: git
+  Wandted: n
 
 alsa-lib:
   upstream: https://github.com/alsa-project/alsa-lib.git
   SCM: git
+  Wandted: n
 
 android-nn-driver:
   upstream: https://github.com/ARM-software/android-nn-driver.git
   SCM: git
+  Wandted: n
 
 angular.js:
   upstream: https://github.com/angular/angular.js.git
   SCM: git
+  Wandted: n
 
 antlr4:
   upstream: https://github.com/antlr/antlr4.git
   SCM: git
+  Wandted: n
 
 archaius:
   upstream: https://github.com/Netflix/archaius.git
   SCM: git
+  Wandted: n
 
 arm-trusted-firmware:
   upstream: https://git.trustedfirmware.org/TF-A/trusted-firmware-a.git
   SCM: git
+  Wandted: n
 
 armnn:
   upstream: https://github.com/ARM-software/armnn.git
   SCM: git
+  Wandted: n
 
 arptables:
   upstream: https://git.netfilter.org/arptables
   SCM: git
+  Wandted: n
 
 asm:
   upstream: https://gitlab.ow2.org/asm/asm.git
   SCM: git
+  Wandted: n
 
 atmosphere-javascript:
   upstream: https://github.com/Atmosphere/atmosphere-javascript.git
   SCM: git
+  Wandted: n
 
 attr:
   upstream: https://git.savannah.nongnu.org/git/attr.git
   SCM: git
+  Wandted: y
 
 audit-userspace:
   upstream: https://github.com/linux-audit/audit-userspace.git
   SCM: git
+  Wandted: y
 
 autofdo:
   upstream: https://github.com/google/autofdo.git
   SCM: git
+  Wandted: n
 
 autoprefixer:
   upstream: https://github.com/postcss/autoprefixer.git
   SCM: git
+  Wandted: n
 
 avro:
   upstream: https://github.com/apache/avro.git
   SCM: git
+  Wandted: n
 
 aws-sdk-java:
   upstream: https://github.com/aws/aws-sdk-java.git
   SCM: git
+  Wandted: n
 
 axios:
   upstream: https://github.com/axios/axios.git
   SCM: git
+  Wandted: n
 
 babel-loader:
   upstream: https://github.com/babel/babel-loader.git
   SCM: git
+  Wandted: n
 
 babel-plugin-root-import:
   upstream: https://github.com/entwicklerstube/babel-plugin-root-import.git
   SCM: git
+  Wandted: n
 
 bash:
   upstream: https://git.savannah.gnu.org/git/bash.git
   SCM: git
+  Wandted: y
 
 bc-java:
   upstream: https://github.com/bcgit/bc-java.git
   SCM: git
+  Wandted: n
 
 better-scroll:
   upstream: https://github.com/ustbhuangyi/better-scroll.git
   SCM: git
+  Wandted: n
 
 body-parser:
   upstream: https://github.com/expressjs/body-parser.git
   SCM: git
+  Wandted: n
 
 bootstrap:
   upstream: https://github.com/twbs/bootstrap.git
   SCM: git
+  Wandted: n
 
 brave:
   upstream: https://github.com/openzipkin/brave.git
   SCM: git
+  Wandted: n
 
 brotli:
   upstream: https://github.com/google/brotli.git
   SCM: git
+  Wandted: n
 
 bson4jackson:
   upstream: https://github.com/michel-kraemer/bson4jackson.git
   SCM: git
+  Wandted: n
 
 busybox:
   upstream: https://git.busybox.net/busybox
   SCM: git
+  Wandted: y
 
 bzip2:
   upstream: https://sourceware.org/git/bzip2.git
   SCM: git
+  Wandted: y
 
 c-ares:
   upstream: https://github.com/c-ares/c-ares.git
   SCM: git
+  Wandted: n
 
 cJSON:
   upstream: https://github.com/DaveGamble/cJSON.git
   SCM: git
+  Wandted: n
 
 cachetools:
   upstream: https://github.com/tkem/cachetools.git
   SCM: git
+  Wandted: n
 
 cadvisor:
   upstream: https://github.com/google/cadvisor.git
   SCM: git
+  Wandted: n
 
 caffe:
   upstream: https://github.com/BVLC/caffe.git
   SCM: git
+  Wandted: n
 
 caffeine:
   upstream: https://github.com/ben-manes/caffeine.git
   SCM: git
+  Wandted: n
 
 cairo:
   upstream: http://git.cairographics.org/git/cairo
   SCM: git
+  Wandted: n
 
 cglib:
   upstream: https://github.com/cglib/cglib.git
   SCM: git
+  Wandted: n
 
 chardet:
   upstream: https://github.com/chardet/chardet.git
   SCM: git
+  Wandted: n
 
 chromium:
   upstream: https://chromium.googlesource.com/chromium/src
   SCM: git
+  Wandted: n
 
 classnames:
   upstream: https://github.com/JedWatson/classnames.git
   SCM: git
+  Wandted: n
 
 cmake:
   upstream: https://gitlab.kitware.com/cmake/cmake.git
   SCM: git
+  Wandted: n
 
 commons-compress:
   upstream: https://gitbox.apache.org/repos/asf/commons-compress.git
   SCM: git
+  Wandted: n
 
 commons-configuration:
   upstream: https://gitbox.apache.org/repos/asf/commons-configuration.git
   SCM: git
+  Wandted: n
 
 commons-csv:
   upstream: https://git-wip-us.apache.org/repos/asf/commons-csv.git
   SCM: git
+  Wandted: n
 
 commons-io:
   upstream: https://gitbox.apache.org/repos/asf/commons-io.git
   SCM: git
+  Wandted: n
 
 commons-net:
   upstream: http://gitbox.apache.org/repos/asf/commons-net.git
   SCM: git
+  Wandted: n
 
 concurrent-log-handler:
   upstream: https://github.com/Preston-Landers/concurrent-log-handler.git
   SCM: git
+  Wandted: n
 
 conductor:
   upstream: https://github.com/Netflix/conductor.git
   SCM: git
+  Wandted: n
 
 connected-react-router:
   upstream: https://github.com/supasate/connected-react-router.git
   SCM: git
+  Wandted: n
 
 consul:
   upstream: https://github.com/hashicorp/consul.git
   SCM: git
+  Wandted: n
 
 containerd:
   upstream: https://github.com/containerd/containerd.git
   SCM: git
+  Wandted: n
 
 cookie-parser:
   upstream: https://github.com/expressjs/cookie-parser.git
   SCM: git
+  Wandted: n
 
 copy-webpack-plugin:
   upstream: https://github.com/webpack-contrib/copy-webpack-plugin.git
   SCM: git
+  Wandted: n
 
 core-js:
   upstream: https://github.com/zloirock/core-js.git
   SCM: git
+  Wandted: n
 
 cracklib:
   upstream: https://github.com/cracklib/cracklib.git
   SCM: git
+  Wandted: y
 
 croniter:
   upstream: https://github.com/taichino/croniter.git
   SCM: git
+  Wandted: n
 
 crypto-js:
   upstream: https://github.com/brix/crypto-js.git
   SCM: git
+  Wandted: n
 
 css-loader:
   upstream: https://github.com/webpack-contrib/css-loader.git
   SCM: git
+  Wandted: n
 
 cups:
   upstream: https://github.com/apple/cups.git
   SCM: git
+  Wandted: n
 
 curl:
   upstream: https://github.com/curl/curl.git
   SCM: git
+  Wandted: y
 
 cyrus-sasl:
   upstream: https://github.com/cyrusimap/cyrus-sasl
   SCM: git
+  Wandted: n
 
 d3-hierarchy:
   upstream: https://github.com/d3/d3-hierarchy.git
   SCM: git
+  Wandted: n
 
 dagre:
   upstream: https://github.com/dagrejs/dagre.git
   SCM: git
+  Wandted: n
 
 dbus:
   upstream: https://gitlab.freedesktop.org/dbus/dbus.git
   SCM: git
+  Wandted: n
 
 debtcollector:
   upstream: https://opendev.org/openstack/debtcollector.git
   SCM: git
+  Wandted: n
 
 decorator:
   upstream: https://github.com/micheles/decorator.git
   SCM: git
+  Wandted: n
 
 defusedxml:
   upstream: https://github.com/tiran/defusedxml.git
   SCM: git
+  Wandted: n
 
 delfin:
   upstream: https://github.com/sodafoundation/delfin.git
   SCM: git
+  Wandted: n
 
 dhcp:
   upstream: https://gitlab.isc.org/isc-projects/dhcp.git
   SCM: git
+  Wandted: y
 
 ########################################################################
 #
@@ -373,1206 +462,1509 @@ dhcp:
 dhcpcd:
   upstream: https://github.com/rsmarples/dhcpcd.git
   SCM: git
+  Wandted: n
 
 disruptor:
   upstream: https://github.com/LMAX-Exchange/disruptor.git
   SCM: git
+  Wandted: n
 
 dmlc-core:
   upstream: https://github.com/dmlc/dmlc-core.git
   SCM: git
+  Wandted: n
 
 dnsmasq:
   upstream: http://thekelleys.org.uk/git/dnsmasq.git
   SCM: git
+  Wandted: n
 
 docker-ce:
   upstream: https://github.com/docker/docker-ce.git
   SCM: git
+  Wandted: n
 
 dogpile.cache:
   upstream: https://github.com/sqlalchemy/dogpile.cache.git
   SCM: git
+  Wandted: n
 
 dom4j:
   upstream: https://github.com/dom4j/dom4j.git
   SCM: git
+  Wandted: n
 
 dosfstools:
   upstream: https://github.com/dosfstools/dosfstools.git
   SCM: git
+  Wandted: y
 
 dpdk:
   upstream: http://dpdk.org/git/dpdk
   SCM: git
+  Wandted: n
 
 drm:
   upstream: https://gitlab.freedesktop.org/mesa/drm.git
   SCM: git
+  Wandted: n
 
 dropbear:
   upstream: https://github.com/mkj/dropbear.git
   SCM: git
+  Wandted: n
 
 druid:
   upstream: https://github.com/apache/druid.git
   SCM: git
+  Wandted: n
 
 dtc:
   upstream: https://git.kernel.org/pub/scm/utils/dtc/dtc.git
   SCM: git
+  Wandted: n
 
 e2fsprogs:
   upstream: git://git.kernel.org/pub/scm/fs/ext2/e2fsprogs.git
   SCM: git
+  Wandted: y
 
 easyexcel:
   upstream: https://github.com/alibaba/easyexcel.git
   SCM: git
+  Wandted: n
 
 ebtables:
   upstream: http://git.netfilter.org/ebtables
   SCM: git
+  Wandted: n
 
 eigen:
   upstream: https://gitlab.com/libeigen/eigen.git
   SCM: git
+  Wandted: n
 
 etcd:
   upstream: https://github.com/etcd-io/etcd.git
   SCM: git
+  Wandted: n
 
 ethtool:
   upstream: git://git.kernel.org/pub/scm/network/ethtool/ethtool.git
   SCM: git
+  Wandted: y
 
 eudev:
   upstream: https://github.com/gentoo/eudev.git
   SCM: git
+  Wandted: n
 
 exfat:
   upstream: https://github.com/relan/exfat.git
   SCM: git
+  Wandted: n
 
 fdk-aac:
   upstream: https://github.com/mstorsjo/fdk-aac.git
   SCM: git
+  Wandted: n
 
 ffmpeg:
   upstream: https://git.ffmpeg.org/ffmpeg.git
   SCM: git
+  Wandted: n
 
 flac:
   upstream: https://github.com/xiph/flac.git
   SCM: git
+  Wandted: n
 
 flex:
   upstream: https://github.com/westes/flex.git
   SCM: git
+  Wandted: y
 
 flink:
   upstream: https://github.com/apache/flink.git
   SCM: git
+  Wandted: n
 
 flume:
   upstream: https://gitbox.apache.org/repos/asf/flume.git
   SCM: git
+  Wandted: n
 
 fontconfig:
   upstream: https://gitlab.freedesktop.org/fontconfig/fontconfig.git
   SCM: git
+  Wandted: n
 
 formatjs:
   upstream: https://github.com/formatjs/formatjs.git
   SCM: git
+  Wandted: n
 
 freetype2:
   upstream: https://git.savannah.gnu.org/git/freetype/freetype2.git
   SCM: git
+  Wandted: n
 
 gcc:
   upstream: https://gcc.gnu.org/git/gcc.git
   SCM: git
+  Wandted: n
 
 gdal:
   upstream: https://github.com/OSGeo/gdal.git
   SCM: git
+  Wandted: n
 
 geos:
   upstream: https://git.osgeo.org/gitea/geos/geos.git
   SCM: git
+  Wandted: n
 
 geotools:
   upstream: https://github.com/geotools/geotools.git
   SCM: git
+  Wandted: n
 
 gflags:
   upstream: https://github.com/gflags/gflags.git
   SCM: git
+  Wandted: n
 
 glib:
   upstream: https://gitlab.gnome.org/GNOME/glib.git
   SCM: git
+  Wandted: n
 
 glibc:
   upstream: https://sourceware.org/git/glibc.git
   SCM: git
+  Wandted: y
 
 glide:
   upstream: https://github.com/bumptech/glide.git
   SCM: git
+  Wandted: n
 
 go:
   upstream: https://go.googlesource.com/go
   SCM: git
+  Wandted: n
 
 go-mysql:
   upstream: https://github.com/go-sql-driver/mysql.git
   SCM: git
+  Wandted: n
 
 gperftools:
   upstream: https://github.com/gperftools/gperftools.git
   SCM: git
+  Wandted: n
 
 grpc:
   upstream: https://github.com/grpc/grpc.git
   SCM: git
+  Wandted: n
 
 grpc-go:
   upstream: https://github.com/grpc/grpc-go.git
   SCM: git
+  Wandted: n
 
 gson:
   upstream: https://github.com/google/gson.git
   SCM: git
+  Wandted: n
 
 harfbuzz:
   upstream: https://github.com/harfbuzz/harfbuzz.git
   SCM: git
+  Wandted: n
 
 haveged:
   upstream: https://github.com/jirka-h/haveged.git
   SCM: git
+  Wandted: n
 
 hiredis:
   upstream: https://github.com/redis/hiredis.git
   SCM: git
+  Wandted: n
 
 history:
   upstream: https://github.com/ReactTraining/history.git
   SCM: git
+  Wandted: n
 
 hostap:
   upstream: git://w1.fi/hostap.git
   SCM: git
+  Wandted: n
 
 http-parser:
   upstream: https://github.com/nodejs/http-parser.git
   SCM: git
+  Wandted: n
 
 httpd:
   upstream: https://github.com/apache/httpd
   SCM: git
+  Wandted: n
 
 huaweicloud-sdk-c-obs:
   upstream: https://github.com/huaweicloud/huaweicloud-sdk-c-obs.git
   SCM: git
+  Wandted: n
 
 huaweicloud-sdk-java-obs:
   upstream: https://github.com/huaweicloud/huaweicloud-sdk-java-obs.git
   SCM: git
+  Wandted: n
 
 hunspell:
   upstream: https://github.com/hunspell/hunspell.git
   SCM: git
+  Wandted: n
 
 ignite:
   upstream: https://github.com/apache/ignite.git
   SCM: git
+  Wandted: n
 
 incubator-echarts:
   upstream: https://gitbox.apache.org/repos/asf/incubator-echarts.git
   SCM: git
+  Wandted: n
 
 incubator-nuttx:
   upstream: https://github.com/apache/incubator-nuttx.git
   SCM: git
+  Wandted: n
 
 inih:
   upstream: https://github.com/benhoyt/inih.git
   SCM: git
+  Wandted: n
 
 iniparser:
   upstream: https://github.com/ndevilla/iniparser.git
   SCM: git
+  Wandted: n
 
 intellij-community:
   upstream: https://github.com/JetBrains/intellij-community.git
   SCM: git
+  Wandted: n
 
 iproute2:
   upstream: https://git.kernel.org/pub/scm/network/iproute2/iproute2.git
   SCM: git
+  Wandted: y
 
 ipset:
   upstream: https://git.netfilter.org/ipset
   SCM: git
+  Wandted: n
 
 iptables:
   upstream: https://git.netfilter.org/iptables
   SCM: git
+  Wandted: y
 
 ipvsadm:
   upstream: git://git.kernel.org/pub/scm/utils/kernel/ipvsadm/ipvsadm.git
   SCM: git
+  Wandted: n
 
 isl:
   upstream: https://repo.or.cz/isl.git
   SCM: git
+  Wandted: n
 
 iw:
   upstream: git://git.kernel.org/pub/scm/linux/kernel/git/jberg/iw.git
   SCM: git
+  Wandted: n
 
 jansson:
   upstream: https://github.com/akheron/jansson.git
   SCM: git
+  Wandted: n
 
 java-xmlbuilder:
   upstream: https://github.com/jmurty/java-xmlbuilder.git
   SCM: git
+  Wandted: n
 
 javassist:
   upstream: https://github.com/jboss-javassist/javassist.git
   SCM: git
+  Wandted: n
 
 jcommon:
   upstream: https://github.com/jfree/jcommon.git
   SCM: git
+  Wandted: n
 
 jedis:
   upstream: https://github.com/xetorthio/jedis.git
   SCM: git
+  Wandted: n
 
 jemalloc:
   upstream: https://github.com/jemalloc/jemalloc.git
   SCM: git
+  Wandted: n
 
 jfreechart:
   upstream: https://github.com/jfree/jfreechart.git
   SCM: git
+  Wandted: n
 
 jna:
   upstream: https://github.com/java-native-access/jna.git
   SCM: git
+  Wandted: n
 
 jquery:
   upstream: https://github.com/jquery/jquery.git
   SCM: git
+  Wandted: n
 
 jquery-ui:
   upstream: https://github.com/jquery/jquery-ui.git
   SCM: git
+  Wandted: n
 
 json-c:
   upstream: https://github.com/json-c/json-c.git
   SCM: git
+  Wandted: y
 
 jsoncpp:
   upstream: https://github.com/open-source-parsers/jsoncpp.git
   SCM: git
+  Wandted: n
 
 jsonschema:
   upstream: https://github.com/Julian/jsonschema.git
   SCM: git
+  Wandted: n
 
 jsplumb:
   upstream: https://github.com/jsplumb/jsplumb.git
   SCM: git
+  Wandted: n
 
 jsrsasign:
   upstream: https://github.com/kjur/jsrsasign.git
   SCM: git
+  Wandted: n
 
 kafka:
   upstream: https://gitbox.apache.org/repos/asf/kafka.git
   SCM: git
+  Wandted: n
 
 keepalived:
   upstream: https://github.com/acassen/keepalived.git
   SCM: git
+  Wandted: n
 
 keyutils:
   upstream: git://git.kernel.org/pub/scm/linux/kernel/git/dhowells/keyutils.git
   SCM: git
+  Wandted: n
 
 kissfft:
   upstream: https://github.com/mborgerding/kissfft.git
   SCM: git
+  Wandted: n
 
 krb5:
   upstream: https://github.com/krb5/krb5.git
   SCM: git
+  Wandted: n
 
 kubeedge:
   upstream: https://github.com/kubeedge/kubeedge.git
   SCM: git
+  Wandted: n
 
 kubernetes:
   upstream: https://github.com/kubernetes/kubernetes.git
   SCM: git
+  Wandted: y
 
 lftp:
   upstream: https://github.com/lavv17/lftp.git
   SCM: git
+  Wandted: n
 
 libXpm:
   upstream: git://anongit.freedesktop.org/git/xorg/lib/libXpm
   SCM: git
+  Wandted: n
 
 libcap-ng:
   upstream: https://github.com/stevegrubb/libcap-ng.git
   SCM: git
+  Wandted: y
 
 libcoap:
   upstream: https://github.com/obgm/libcoap.git
   SCM: git
+  Wandted: n
 
 libestr:
   upstream: https://github.com/rsyslog/libestr.git
   SCM: git
+  Wandted: y
 
 libevent:
   upstream: https://github.com/libevent/libevent.git
   SCM: git
+  Wandted: y
 
 libfastjson:
   upstream: https://github.com/rsyslog/libfastjson.git
   SCM: git
+  Wandted: y
 
 libffi:
   upstream: https://github.com/libffi/libffi.git
   SCM: git
+  Wandted: y
 
 libfuse:
   upstream: https://github.com/libfuse/libfuse.git
   SCM: git
+  Wandted: n
 
 libgcrypt:
   upstream: https://dev.gnupg.org/source/libgcrypt.git
   SCM: git
+  Wandted: n
 
 libgd:
   upstream: https://github.com/libgd/libgd.git
   SCM: git
+  Wandted: n
 
 libgpg-error:
   upstream: https://dev.gnupg.org/source/libgpg-error.git
   SCM: git
+  Wandted: n
 
 libiconv:
   upstream: https://git.savannah.gnu.org/git/libiconv.git
   SCM: git
+  Wandted: n
 
 libjpeg-turbo:
   upstream: https://github.com/libjpeg-turbo/libjpeg-turbo.git
   SCM: git
+  Wandted: n
 
 liblinear:
   upstream: https://github.com/cjlin1/liblinear.git
   SCM: git
+  Wandted: n
 
 libnetfilter_conntrack:
   upstream: git://git.netfilter.org/libnetfilter_conntrack
   SCM: git
+  Wandted: n
 
 libnl:
   upstream: https://github.com/thom311/libnl.git
   SCM: git
+  Wandted: n
 
 libpcap:
   upstream: https://github.com/the-tcpdump-group/libpcap.git
   SCM: git
+  Wandted: y
 
 libpng:
   upstream: https://github.com/glennrp/libpng.git
   SCM: git
+  Wandted: n
 
 librdkafka:
   upstream: https://github.com/edenhill/librdkafka.git
   SCM: git
+  Wandted: n
 
 libsoup:
   upstream: https://gitlab.gnome.org/GNOME/libsoup.git
   SCM: git
+  Wandted: n
 
 libsrtp:
   upstream: https://github.com/cisco/libsrtp.git
   SCM: git
+  Wandted: n
 
 libssh:
   upstream: https://git.libssh.org/projects/libssh.git
   SCM: git
+  Wandted: n
 
 libssh2:
   upstream: https://github.com/libssh2/libssh2.git
   SCM: git
+  Wandted: n
 
 libtirpc:
   upstream: git://git.linux-nfs.org/projects/steved/libtirpc.git
   SCM: git
+  Wandted: y
 
 libtpms:
   upstream: https://github.com/stefanberger/libtpms.git
   SCM: git
+  Wandted: n
 
 libunwind:
   upstream: https://github.com/libunwind/libunwind.git
   SCM: git
+  Wandted: n
 
 libwebp:
   upstream: https://chromium.googlesource.com/webm/libwebp.git
   SCM: git
+  Wandted: n
 
 libwebsockets:
   upstream: https://github.com/warmcat/libwebsockets.git
   SCM: git
+  Wandted: n
 
 libxml2:
   upstream: https://gitlab.gnome.org/GNOME/libxml2.git
   SCM: git
+  Wandted: y
 
 libxslt:
   upstream: https://gitlab.gnome.org/GNOME/libxslt.git
   SCM: git
+  Wandted: n
 
 libyaml:
   upstream: https://github.com/yaml/libyaml.git
   SCM: git
+  Wandted: n
 
 libyang:
   upstream: https://github.com/CESNET/libyang.git
   SCM: git
+  Wandted: n
 
 libzbc:
   upstream: https://github.com/hgst/libzbc.git
   SCM: git
+  Wandted: n
 
 linux:
   upstream: https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git
   SCM: git
+  Wandted: y
 
 linux-pam:
   upstream: https://github.com/linux-pam/linux-pam
   SCM: git
+  Wandted: y
 
 lldpd:
   upstream: https://github.com/vincentbernat/lldpd.git
   SCM: git
+  Wandted: n
 
 llvm-project:
   upstream: https://github.com/llvm/llvm-project.git
   SCM: git
+  Wandted: n
 
 logging-log4cxx:
   upstream: http://gitbox.apache.org/repos/asf/logging-log4cxx.git
   SCM: git
+  Wandted: n
 
 lsof:
   upstream: https://github.com/lsof-org/lsof.git
   SCM: git
+  Wandted: y
 
 lucene-solr:
   upstream: https://gitbox.apache.org/repos/asf/lucene-solr.git
   SCM: git
+  Wandted: n
 
 lwip:
   upstream: https://git.savannah.gnu.org/git/lwip.git
   SCM: git
+  Wandted: n
 
 lxml:
   upstream: https://github.com/lxml/lxml.git
   SCM: git
+  Wandted: n
 
 lz4:
   upstream: https://github.com/lz4/lz4.git
   SCM: git
+  Wandted: n
 
 mail:
   upstream: https://github.com/eclipse-ee4j/mail.git
   SCM: git
+  Wandted: n
 
 mapserver:
   upstream: https://github.com/mapserver/mapserver.git
   SCM: git
+  Wandted: n
 
 mbedtls:
   upstream: https://github.com/ARMmbed/mbedtls.git
   SCM: git
+  Wandted: n
 
 mesos:
   upstream: https://github.com/apache/mesos.git
   SCM: git
+  Wandted: n
 
 moby:
   upstream: https://github.com/moby/moby.git
   SCM: git
+  Wandted: y
 
 mongo:
   upstream: https://github.com/mongodb/mongo.git
   SCM: git
+  Wandted: n
 
 mongo-c-driver:
   upstream: https://github.com/mongodb/mongo-c-driver.git
   SCM: git
+  Wandted: n
 
 moosefs:
   upstream: https://github.com/moosefs/moosefs.git
   SCM: git
+  Wandted: n
 
 mpc:
   upstream: https://scm.gforge.inria.fr/anonscm/git/mpc/mpc.git
   SCM: git
+  Wandted: n
+
 mtd-utils:
   upstream: git://git.infradead.org/mtd-utils.git
   SCM: git
+  Wandted: y
 
 mwe:
   upstream: https://github.com/eclipse/mwe.git
   SCM: git
+  Wandted: n
 
 mysql-server:
   upstream: https://github.com/mysql/mysql-server.git
   SCM: git
+  Wandted: n
 
 nanomsg:
   upstream: https://github.com/nanomsg/nanomsg.git
   SCM: git
+  Wandted: n
 
 ncnn:
   upstream: https://github.com/Tencent/ncnn.git
   SCM: git
+  Wandted: n
 
 netty:
   upstream: https://github.com/netty/netty.git
   SCM: git
+  Wandted: n
 
 netty-tcnative:
   upstream: https://github.com/netty/netty-tcnative.git
   SCM: git
+  Wandted: n
 
 newlib-cygwin:
   upstream: git://sourceware.org/git/newlib-cygwin.git
   SCM: git
+  Wandted: n
 
 notary:
   upstream: https://github.com/theupdateframework/notary.git
   SCM: git
+  Wandted: y
 
 nfs-utils:
   upstream: git://git.linux-nfs.org/projects/steved/nfs-utils.git
   SCM: git
+  Wandted: y
 
 nghttp2:
   upstream: https://github.com/nghttp2/nghttp2.git
   SCM: git
+  Wandted: n
 
 nginx-upload-module:
   upstream: https://github.com/vkholodkov/nginx-upload-module.git
   SCM: git
+  Wandted: n
 
 ngx_http_proxy_connect_module:
   upstream: https://github.com/chobits/ngx_http_proxy_connect_module.git
   SCM: git
+  Wandted: n
 
 noVNC:
   upstream: https://github.com/novnc/noVNC.git
   SCM: git
+  Wandted: n
 
 noto-fonts:
   upstream: https://github.com/googlefonts/noto-fonts.git
   SCM: git
+  Wandted: n
 
 ntfs-3g-ntfs-3g:
   upstream: https://git.code.sf.net/p/ntfs-3g/ntfs-3g
   SCM: git
+  Wandted: n
 
 nuttx:
   upstream: https://bitbucket.org/nuttx/nuttx.git
   SCM: git
+  Wandted: n
 
 ogg:
   upstream: https://github.com/xiph/ogg.git
   SCM: git
+  Wandted: n
 
 okhttp:
   upstream: https://github.com/square/okhttp.git
   SCM: git
+  Wandted: n
 
 okio:
   upstream: https://github.com/square/okio.git
   SCM: git
+  Wandted: n
 
 opencv:
   upstream: https://github.com/opencv/opencv.git
   SCM: git
+  Wandted: n
 
 openh264:
   upstream: https://github.com/cisco/openh264.git
   SCM: git
+  Wandted: n
 
 openhpi:
   upstream: https://github.com/open-hpi/openhpi.git
   SCM: git
+  Wandted: n
 
 openipmi:
   upstream: https://git.code.sf.net/p/openipmi/code
   SCM: git
+  Wandted: n
 
 openlayers:
   upstream: https://github.com/openlayers/openlayers.git
   SCM: git
+  Wandted: n
 
 openldap:
   upstream: https://git.openldap.org/openldap/openldap.git
   SCM: git
+  Wandted: n
 
 openssl:
   upstream: https://github.com/openssl/openssl.git
   SCM: git
+  Wandted: y
 
 optee_client:
   upstream: https://github.com/OP-TEE/optee_client.git
   SCM: git
+  Wandted: n
 
 optee_os:
   upstream: https://github.com/OP-TEE/optee_os.git
   SCM: git
+  Wandted: n
 
 opus:
   upstream: https://github.com/xiph/opus.git
   SCM: git
+  Wandted: n
 
 paho.mqtt.c:
   upstream: https://github.com/eclipse/paho.mqtt.c.git
   SCM: git
+  Wandted: n
 
 paho.mqtt.python:
   upstream: https://github.com/eclipse/paho.mqtt.python.git
   SCM: git
+  Wandted: n
 
 pango:
   upstream: https://gitlab.gnome.org/GNOME/pango.git
   SCM: git
+  Wandted: n
 
 pentaho-kettle:
   upstream: https://github.com/pentaho/pentaho-kettle.git
   SCM: git
+  Wandted: n
 
 pgaudit:
   upstream: https://github.com/pgaudit/pgaudit.git
   SCM: git
+  Wandted: n
 
 pgjdbc:
   upstream: https://github.com/pgjdbc/pgjdbc.git
   SCM: git
+  Wandted: n
 
 pgpool2:
   upstream: https://git.postgresql.org/git/pgpool2.git
   SCM: git
+  Wandted: n
 
 php-src:
   upstream: https://github.com/php/php-src.git
   SCM: git
+  Wandted: n
 
 pigz:
   upstream: https://github.com/madler/pigz.git
   SCM: git
+  Wandted: n
 
 pixman:
   upstream: git://anongit.freedesktop.org/git/pixman.git
   SCM: git
+  Wandted: n
 
 pjproject:
   upstream: https://github.com/pjsip/pjproject.git
   SCM: git
+  Wandted: n
 
 poco:
   upstream: https://github.com/pocoproject/poco.git
   SCM: git
+  Wandted: n
 
 poky:
   upstream: https://git.yoctoproject.org/git/poky.git
   SCM: git
+  Wandted: n
 
 popper-core:
   upstream: https://github.com/popperjs/popper-core.git
   SCM: git
+  Wandted: n
 
 postgis:
   upstream: https://git.osgeo.org/gitea/postgis/postgis.git
   SCM: git
+  Wandted: n
 
 postgresql:
   upstream: https://git.postgresql.org/git/postgresql.git
   SCM: git
+  Wandted: n
 
 pptpclient-git:
   upstream: https://git.code.sf.net/p/pptpclient/git
   SCM: git
+  Wandted: n
 
 procps:
   upstream: https://gitlab.com/procps-ng/procps.git
   SCM: git
+  Wandted: y
 
 prop-types:
   upstream: https://github.com/facebook/prop-types.git
   SCM: git
+  Wandted: n
 
 protoactor-go:
   upstream: https://github.com/AsynkronIT/protoactor-go.git
   SCM: git
+  Wandted: n
 
 protobuf:
   upstream: https://github.com/protocolbuffers/protobuf.git
   SCM: git
+  Wandted: n
 
 protobuf.js:
   upstream: https://github.com/protobufjs/protobuf.js.git
   SCM: git
+  Wandted: n
 
 pulseaudio:
   upstream: https://gitlab.freedesktop.org/pulseaudio/pulseaudio.git
   SCM: git
+  Wandted: n
 
 pupnp:
   upstream: https://github.com/pupnp/pupnp
   SCM: git
+  Wandted: n
 
 python-certifi:
   upstream: https://github.com/certifi/python-certifi.git
   SCM: git
+  Wandted: n
 
 python-click:
   upstream: https://github.com/pallets/click.git
   SCM: git
+  Wandted: n
 
 python-cmd2:
   upstream: https://github.com/python-cmd2/cmd2.git
   SCM: git
+  Wandted: n
 
 python-cpython:
   upstream: https://github.com/python/cpython.git
   SCM: git
+  Wandted: n
 
 python-dateutil:
   upstream: https://github.com/dateutil/dateutil.git
   SCM: git
+  Wandted: n
 
 python-flask:
   upstream: https://github.com/pallets/flask.git
   SCM: git
+  Wandted: n
 
 python-ipy:
   upstream: https://github.com/autocracy/python-ipy.git
   SCM: git
+  Wandted: n
 
 python-itsdangerous:
   upstream: https://github.com/pallets/itsdangerous.git
   SCM: git
+  Wandted: n
 
 python-jinja:
   upstream: https://github.com/pallets/jinja.git
   SCM: git
+  Wandted: n
 
 python-jmespath.py:
   upstream: https://github.com/jmespath/jmespath.py.git
   SCM: git
+  Wandted: n
 
 python-json-patch:
   upstream: https://github.com/stefankoegl/python-json-patch.git
   SCM: git
+  Wandted: n
 
 python-json-pointer:
   upstream: https://github.com/stefankoegl/python-json-pointer.git
   SCM: git
+  Wandted: n
 
 python-kazoo:
   upstream: https://github.com/python-zk/kazoo.git
   SCM: git
+  Wandted: n
 
 python-markupsafe:
   upstream: https://github.com/pallets/markupsafe.git
   SCM: git
+  Wandted: n
 
 python-numpy:
   upstream: https://github.com/numpy/numpy.git
   SCM: git
+  Wandted: n
 
 python-pandas:
   upstream: https://github.com/pandas-dev/pandas.git
   SCM: git
+  Wandted: n
 
 python-psutil:
   upstream: https://github.com/giampaolo/psutil.git
   SCM: git
+  Wandted: n
 
 python-pyasn1:
   upstream: https://github.com/etingof/pyasn1.git
   SCM: git
+  Wandted: n
 
 python-pycryptodome:
   upstream: https://github.com/Legrandin/pycryptodome.git
   SCM: git
+  Wandted: n
 
 python-pyopenssl:
   upstream: https://github.com/pyca/pyopenssl.git
   SCM: git
+  Wandted: n
 
 python-pyparsing:
   upstream: https://github.com/pyparsing/pyparsing.git
   SCM: git
+  Wandted: n
 
 python-pyserial:
   upstream: https://github.com/pyserial/pyserial.git
   SCM: git
+  Wandted: n
 
 python-pysnmp:
   upstream: https://github.com/etingof/pysnmp.git
   SCM: git
+  Wandted: n
 
 python-pytz:
   upstream: https://github.com/stub42/pytz.git
   SCM: git
+  Wandted: n
 
 python-pyyaml:
   upstream: https://github.com/yaml/pyyaml.git
   SCM: git
+  Wandted: n
 
 python-scikit-learn:
   upstream: https://github.com/scikit-learn/scikit-learn.git
   SCM: git
+  Wandted: n
 
 python-scipy:
   upstream: https://github.com/scipy/scipy.git
   SCM: git
+  Wandted: n
 
 python-setuptools:
   upstream: https://github.com/pypa/setuptools.git
   SCM: git
+  Wandted: n
 
 python-tornado:
   upstream: https://github.com/tornadoweb/tornado.git
   SCM: git
+  Wandted: n
 
 qtbase:
   upstream: https://github.com/qt/qtbase.git
   SCM: git
+  Wandted: n
 
 rabit:
   upstream: https://github.com/dmlc/rabit.git
   SCM: git
+  Wandted: n
 
 radvd:
   upstream: https://github.com/reubenhwk/radvd.git
   SCM: git
+  Wandted: n
 
 rapidjson:
   upstream: https://github.com/Tencent/rapidjson.git
   SCM: git
+  Wandted: n
 
 rdma-core:
   upstream: https://github.com/linux-rdma/rdma-core.git
   SCM: git
+  Wandted: n
 
 re2:
   upstream: https://github.com/google/re2.git
   SCM: git
+  Wandted: n
 
 react:
   upstream: https://github.com/facebook/react.git
   SCM: git
+  Wandted: n
 
 react-redux:
   upstream: https://github.com/reduxjs/react-redux.git
   SCM: git
+  Wandted: n
 
 react-router:
   upstream: https://github.com/ReactTraining/react-router.git
   SCM: git
+  Wandted: n
 
 readline:
   upstream: https://git.savannah.gnu.org/git/readline.git
   SCM: git
+  Wandted: y
 
 redis:
   upstream: https://github.com/antirez/redis.git
   SCM: git
+  Wandted: n
 
 redux:
   upstream: https://github.com/reduxjs/redux.git
   SCM: git
+  Wandted: n
 
 redux-thunk:
   upstream: https://github.com/reduxjs/redux-thunk.git
   SCM: git
+  Wandted: n
 
 requirejs:
   upstream: https://github.com/requirejs/requirejs.git
   SCM: git
+  Wandted: n
 
 restlet-framework-java:
   upstream: https://github.com/restlet/restlet-framework-java.git
   SCM: git
+  Wandted: n
 
 rhino:
   upstream: https://github.com/mozilla/rhino.git
   SCM: git
+  Wandted: n
 
 riscv-openocd:
   upstream: https://github.com/riscv/riscv-openocd.git
   SCM: git
+  Wandted: n
 
 rocksdb:
   upstream: https://github.com/facebook/rocksdb.git
   SCM: git
+  Wandted: n
 
 rpcbind:
   upstream: git://git.linux-nfs.org/projects/steved/rpcbind.git
   SCM: git
+  Wandted: y
 
 rsync:
   upstream: https://git.samba.org/rsync.git
   SCM: git
+  Wandted: n
 
 rsyslog:
   upstream: https://github.com/rsyslog/rsyslog.git
   SCM: git
+  Wandted: y
 
 rt-thread:
   upstream: https://github.com/RT-Thread/rt-thread.git
   SCM: git
+  Wandted: n
 
 runc:
   upstream: https://github.com/opencontainers/runc.git
   SCM: git
+  Wandted: n
 
 servicecomb-java-chassis:
   upstream: https://gitbox.apache.org/repos/asf/servicecomb-java-chassis.git
   SCM: git
+  Wandted: n
 
 sheetjs:
   upstream: https://github.com/SheetJS/sheetjs.git
   SCM: git
+  Wandted: n
 
 shiro:
   upstream: https://gitbox.apache.org/repos/asf/shiro.git
   SCM: git
+  Wandted: n
 
 siddhi:
   upstream: https://github.com/siddhi-io/siddhi.git
   SCM: git
+  Wandted: n
 
 simplejson:
   upstream: https://github.com/simplejson/simplejson.git
   SCM: git
+  Wandted: n
 
 six:
   upstream: https://github.com/benjaminp/six.git
   SCM: git
+  Wandted: n
 
 sjcl:
   upstream: https://github.com/bitwiseshiftleft/sjcl.git
   SCM: git
+  Wandted: n
 
 slf4j:
   upstream: https://github.com/qos-ch/slf4j.git
   SCM: git
+  Wandted: n
 
 snappy:
   upstream: https://github.com/google/snappy.git
   SCM: git
+  Wandted: n
 
 snappy-java:
   upstream: https://github.com/xerial/snappy-java.git
   SCM: git
+  Wandted: n
 
 spdk:
   upstream: https://github.com/spdk/spdk.git
   SCM: git
+  Wandted: n
 
 spiffs:
   upstream: https://github.com/pellepl/spiffs.git
   SCM: git
+  Wandted: n
 
 sqlcipher:
   upstream: https://github.com/sqlcipher/sqlcipher.git
   SCM: git
+  Wandted: n
 
 squashfs-tools:
   upstream: https://github.com/plougher/squashfs-tools.git
   SCM: git
+  Wandted: y
 
 stax2-api:
   upstream: https://github.com/FasterXML/stax2-api.git
   SCM: git
+  Wandted: n
 
 stomp.py:
   upstream: https://github.com/jasonrbriggs/stomp.py.git
   SCM: git
+  Wandted: n
 
 sudo:
   upstream: https://github.com/sudo-project/sudo.git
   SCM: git
+  Wandted: n
 
 syslog-ng:
   upstream: https://github.com/syslog-ng/syslog-ng.git
   SCM: git
+  Wandted: n
 
 sysstat:
   upstream: https://github.com/sysstat/sysstat.git
   SCM: git
+  Wandted: y
 
 tcpdump:
   upstream: https://github.com/the-tcpdump-group/tcpdump.git
   SCM: git
+  Wandted: n
 
 tensorflow:
   upstream: https://github.com/tensorflow/tensorflow.git
   SCM: git
+  Wandted: n
 
 thinkphp:
   upstream: https://gitee.com/liu21st/thinkphp.git
   SCM: git
+  Wandted: n
 
 three.js:
   upstream: https://github.com/mrdoob/three.js.git
   SCM: git
+  Wandted: n
 
 thrift:
   upstream: https://gitbox.apache.org/repos/asf/thrift.git
   SCM: git
+  Wandted: n
 
 tiny-AES-c:
   upstream: https://github.com/kokke/tiny-AES-c.git
   SCM: git
+  Wandted: n
 
 tinyxml2:
   upstream: https://github.com/leethomason/tinyxml2.git
   SCM: git
+  Wandted: n
 
 tomcat:
   upstream: https://github.com/apache/tomcat.git
   SCM: git
+  Wandted: n
 
 tpm2-tss:
   upstream: https://github.com/tpm2-software/tpm2-tss.git
   SCM: git
+  Wandted: n
 
 u-boot:
   upstream: https://gitlab.denx.de/u-boot/u-boot.git
   SCM: git
+  Wandted: y
 
 ui-router:
   upstream: https://github.com/angular-ui/ui-router.git
   SCM: git
+  Wandted: n
 
 underscore:
   upstream: https://github.com/jashkenas/underscore.git
   SCM: git
+  Wandted: n
 
 urllib3:
   upstream: https://github.com/urllib3/urllib3.git
   SCM: git
+  Wandted: n
 
 uwsgi:
   upstream: https://github.com/unbit/uwsgi.git
   SCM: git
+  Wandted: n
 
 vim:
   upstream: https://github.com/vim/vim.git
   SCM: git
+  Wandted: n
 
 volcano:
   upstream: https://github.com/volcano-sh/volcano.git
   SCM: git
+  Wandted: n
 
 vorbis:
   upstream: https://github.com/xiph/vorbis.git
   SCM: git
+  Wandted: n
 
 websocket-client:
   upstream: https://github.com/websocket-client/websocket-client.git
   SCM: git
+  Wandted: n
 
 websockify:
   upstream: https://github.com/novnc/websockify.git
   SCM: git
+  Wandted: n
 
 werkzeug:
   upstream: https://github.com/pallets/werkzeug.git
   SCM: git
+  Wandted: n
 
 wireshark:
   upstream: https://code.wireshark.org/review/wireshark.git
   SCM: git
+  Wandted: n
 
 wxWidgets:
   upstream: https://github.com/wxWidgets/wxWidgets.git
   SCM: git
+  Wandted: n
 
 wxsqlite3:
   upstream: https://github.com/utelle/wxsqlite3.git
   SCM: git
+  Wandted: n
 
 xerces-c:
   upstream: https://gitbox.apache.org/repos/asf/xerces-c.git
   SCM: git
+  Wandted: n
 
 xgboost:
   upstream: https://github.com/dmlc/xgboost.git
   SCM: git
+  Wandted: n
 
 xmltodict:
   upstream: https://github.com/martinblech/xmltodict.git
   SCM: git
+  Wandted: n
 
 xtables-addons:
   upstream: https://git.code.sf.net/p/xtables-addons/xtables-addons
   SCM: git
+  Wandted: n
 
 xz:
   upstream: https://git.tukaani.org/xz.git
   SCM: git
+  Wandted: y
 
 xz-java:
   upstream: https://git.tukaani.org/xz-java.git
   SCM: git
+  Wandted: n
 
 zTree_v3:
   upstream: https://github.com/zTree/zTree_v3.git
   SCM: git
+  Wandted: n
 
 zip:
   upstream: https://github.com/kuba--/zip.git
   SCM: git
+  Wandted: y
 
 zip4j:
   upstream: https://github.com/srikanth-lingala/zip4j.git
   SCM: git
+  Wandted: n
 
 zlib:
   upstream: https://github.com/madler/zlib.git
   SCM: git
+  Wandted: y
 
 zookeeper:
   upstream: https://gitbox.apache.org/repos/asf/zookeeper.git
   SCM: git
+  Wandted: n
 
 zstd:
   upstream: https://github.com/facebook/zstd.git
   SCM: git
+  Wandted: n
 
 zxing:
   upstream: https://github.com/zxing/zxing.git
   SCM: git
+  Wandted: n
