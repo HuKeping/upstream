@@ -251,7 +251,7 @@ c-ares:
 cJSON:
   upstream: https://github.com/DaveGamble/cJSON.git
   SCM: git
-  Wanted: n
+  Wanted: y
 
 cachetools:
   upstream: https://github.com/tkem/cachetools.git
@@ -1297,12 +1297,12 @@ openssl:
 optee_client:
   upstream: https://github.com/OP-TEE/optee_client.git
   SCM: git
-  Wanted: n
+  Wanted: y
 
 optee_os:
   upstream: https://github.com/OP-TEE/optee_os.git
   SCM: git
-  Wanted: n
+  Wanted: y
 
 opus:
   upstream: https://github.com/xiph/opus.git
