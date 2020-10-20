@@ -884,6 +884,11 @@ kissfft:
   SCM: git
   Wanted: n
 
+kpatch:
+  upstream: https://github.com/dynup/kpatch.git
+  SCM: git
+  Wanted: n
+
 krb5:
   upstream: https://github.com/krb5/krb5.git
   SCM: git
