@@ -649,6 +649,11 @@ glide:
   SCM: git
   Wanted: n
 
+gmp:
+  upstream: https://gmplib.org/repo/gmp
+  SCM: Mercurial
+  Wanted: n
+
 go:
   upstream: https://go.googlesource.com/go
   SCM: git
