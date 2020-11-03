@@ -749,6 +749,11 @@ incubator-nuttx:
   SCM: git
   Wanted: n
 
+influxdb:
+  upstream: https://github.com/influxdata/influxdb.git
+  SCM: git
+  Wanted: y
+
 inih:
   upstream: https://github.com/benhoyt/inih.git
   SCM: git
