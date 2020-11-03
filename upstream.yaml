@@ -1324,6 +1324,11 @@ opus:
   SCM: git
   Wanted: n
 
+otp:
+  upstream: https://github.com/erlang/otp.git
+  SCM: git
+  Wanted: y
+
 paho.mqtt.c:
   upstream: https://github.com/eclipse/paho.mqtt.c.git
   SCM: git
