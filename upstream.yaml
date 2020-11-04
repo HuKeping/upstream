@@ -764,6 +764,11 @@ iniparser:
   SCM: git
   Wanted: n
 
+inotify-tools:
+  upstream: https://github.com/inotify-tools/inotify-tools.git
+  SCM: git
+  Wanted: n
+
 intellij-community:
   upstream: https://github.com/JetBrains/intellij-community.git
   SCM: git
