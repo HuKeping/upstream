@@ -1414,6 +1414,11 @@ postgresql:
   SCM: git
   Wanted: n
 
+ppp:
+  upstream: https://github.com/paulusmack/ppp.git
+  SCM: git
+  Wanted: n
+
 pptpclient-git:
   upstream: https://git.code.sf.net/p/pptpclient/git
   SCM: git
