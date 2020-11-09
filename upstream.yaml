@@ -1864,6 +1864,11 @@ tpm2-tss:
   SCM: git
   Wanted: n
 
+tz:
+  upstream: https://github.com/eggert/tz.git
+  SCM: git
+  Wanted: n
+
 u-boot:
   upstream: https://gitlab.denx.de/u-boot/u-boot.git
   SCM: git
