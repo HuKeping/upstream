@@ -1019,6 +1019,11 @@ librdkafka:
   SCM: git
   Wanted: n
 
+libseccomp:
+  upstream: https://github.com/seccomp/libseccomp.git
+  SCM: git
+  Wanted: y
+
 libsoup:
   upstream: https://gitlab.gnome.org/GNOME/libsoup.git
   SCM: git
