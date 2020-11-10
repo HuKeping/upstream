@@ -1729,6 +1729,11 @@ servicecomb-java-chassis:
   SCM: git
   Wanted: n
 
+shadow:
+  upstream: https://github.com/shadow-maint/shadow.git
+  SCM: git
+  Wanted: n
+
 sheetjs:
   upstream: https://github.com/SheetJS/sheetjs.git
   SCM: git
