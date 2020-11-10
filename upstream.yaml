@@ -1889,6 +1889,11 @@ urllib3:
   SCM: git
   Wanted: n
 
+util-linux:
+  upstream: https://git.kernel.org/pub/scm/utils/util-linux/util-linux.git
+  SCM: git
+  Wanted: n
+
 uwsgi:
   upstream: https://github.com/unbit/uwsgi.git
   SCM: git
