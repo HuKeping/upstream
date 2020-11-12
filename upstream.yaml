@@ -1979,6 +1979,11 @@ xz-java:
   SCM: git
   Wanted: n
 
+yara:
+  upstream: https://github.com/VirusTotal/yara.git
+  SCM: git
+  Wanted: n
+
 zTree_v3:
   upstream: https://github.com/zTree/zTree_v3.git
   SCM: git
