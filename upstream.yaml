@@ -1104,6 +1104,11 @@ linux-pam:
   SCM: git
   Wanted: y
 
+linuxquota:
+  upstream: https://git.code.sf.net/p/linuxquota/code
+  SCM: git
+  Wanted: y
+
 lldpd:
   upstream: https://github.com/vincentbernat/lldpd.git
   SCM: git
