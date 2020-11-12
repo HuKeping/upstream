@@ -33,6 +33,13 @@ do
 	echo "Sync $i ..."
 	repo_name=$(echo $i | awk -F/ '{print $NF}')
 
+
+	# repo from sf is totally a mess, eg: https://git.code.sf.net/p/linuxquota/code
+	if [ "$repo_name" == "code" ]
+	then
+		rm -rf $repo_name
+	fi
+
 	if [[ ${Mercurial_array[$i]} ]]
 	then
 		hg -q clone $i $repo_name
