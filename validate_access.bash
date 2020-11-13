@@ -4,6 +4,7 @@ set -e
 
 unshallow_list=(
 	"http://git.netfilter.org/ebtables"
+	"https://anongit.mindrot.org/openssh.git"
 	"https://git.tukaani.org/xz-java.git"
 	"https://git.tukaani.org/xz.git"
 	"https://git.netfilter.org/arptables"
