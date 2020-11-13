@@ -1319,6 +1319,11 @@ openldap:
   SCM: git
   Wanted: n
 
+openssh:
+  upstream: https://anongit.mindrot.org/openssh.git
+  SCM: git
+  Wanted: y
+
 openssl:
   upstream: https://github.com/openssl/openssl.git
   SCM: git
