@@ -158,6 +158,11 @@ audit-userspace:
   SCM: git
   Wanted: y
 
+autoconf-archive:
+  upstream: https://git.savannah.gnu.org/git/autoconf-archive.git
+  SCM: git
+  Wanted: n
+
 autofdo:
   upstream: https://github.com/google/autofdo.git
   SCM: git
