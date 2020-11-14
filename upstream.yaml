@@ -193,6 +193,11 @@ babel-plugin-root-import:
   SCM: git
   Wanted: n
 
+base-passwd:
+  upstream: https://salsa.debian.org/debian/base-passwd.git
+  SCM: git
+  Wanted: n
+
 bash:
   upstream: https://git.savannah.gnu.org/git/bash.git
   SCM: git
