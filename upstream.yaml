@@ -664,6 +664,11 @@ gmp:
   SCM: Mercurial
   Wanted: n
 
+gnulib:
+  upstream: https://git.savannah.gnu.org/git/gnulib.git
+  SCM: git
+  Wanted: n
+
 go:
   upstream: https://go.googlesource.com/go
   SCM: git
