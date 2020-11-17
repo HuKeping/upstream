@@ -1144,6 +1144,11 @@ lsof:
   SCM: git
   Wanted: y
 
+lua:
+  upstream: https://github.com/lua/lua.git
+  SCM: git
+  Wanted: y
+
 lucene-solr:
   upstream: https://gitbox.apache.org/repos/asf/lucene-solr.git
   SCM: git
