@@ -1079,6 +1079,11 @@ libunwind:
   SCM: git
   Wanted: n
 
+libvzctl:
+  upstream: https://src.openvz.org/scm/ovz/libvzctl.git
+  SCM: git
+  Wanted: n
+
 libwebp:
   upstream: https://chromium.googlesource.com/webm/libwebp.git
   SCM: git
