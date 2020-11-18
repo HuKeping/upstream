@@ -33,13 +33,7 @@ for i in $(cat upstream.yaml | grep "upstream: " | awk '{print $NF}')
 do
 	echo "Sync $i ..."
 	repo_name=$(echo $i | awk -F/ '{print $NF}')
-
-
-	# repo from sf is totally a mess, eg: https://git.code.sf.net/p/linuxquota/code
-	if [ "$repo_name" == "code" ]
-	then
-		rm -rf $repo_name
-	fi
+	rm -rf $repo_name
 
 	if [[ ${Mercurial_array[$i]} ]]
 	then
