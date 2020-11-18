@@ -669,6 +669,11 @@ gnulib:
   SCM: git
   Wanted: n
 
+gnupg:
+  upstream: https://dev.gnupg.org/source/gnupg.git
+  SCM: git
+  Wanted: n
+
 go:
   upstream: https://go.googlesource.com/go
   SCM: git
