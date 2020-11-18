@@ -1189,6 +1189,11 @@ mesos:
   SCM: git
   Wanted: n
 
+mina-ftpserver:
+  upstream: https://gitbox.apache.org/repos/asf/mina-ftpserver.git
+  SCM: git
+  Wanted: n
+
 moby:
   upstream: https://github.com/moby/moby.git
   SCM: git
