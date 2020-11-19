@@ -1705,7 +1705,7 @@ readline:
   Wanted: y
 
 redis:
-  upstream: https://github.com/antirez/redis.git
+  upstream: https://github.com/redis/redis.git
   SCM: git
   Wanted: n
 
