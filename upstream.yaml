@@ -549,6 +549,11 @@ ebtables:
   SCM: git
   Wanted: n
 
+edk2:
+  upstream: https://github.com/tianocore/edk2.git
+  SCM: git
+  Wanted: n
+
 eigen:
   upstream: https://gitlab.com/libeigen/eigen.git
   SCM: git
