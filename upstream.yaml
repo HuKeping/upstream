@@ -1169,6 +1169,11 @@ lucene-solr:
   SCM: git
   Wanted: n
 
+lvm2:
+  upstream: https://sourceware.org/git/lvm2.git
+  SCM: git
+  Wanted: n
+
 lwip:
   upstream: https://git.savannah.gnu.org/git/lwip.git
   SCM: git
