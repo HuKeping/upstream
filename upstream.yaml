@@ -218,6 +218,11 @@ better-scroll:
   SCM: git
   Wanted: n
 
+bind9:
+  upstream: https://gitlab.isc.org/isc-projects/bind9.git
+  SCM: git
+  Wanted: n
+
 body-parser:
   upstream: https://github.com/expressjs/body-parser.git
   SCM: git
