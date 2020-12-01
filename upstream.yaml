@@ -584,6 +584,11 @@ eigen:
   SCM: git
   Wanted: n
 
+elfutils:
+  upstream: https://sourceware.org/git/elfutils.git
+  SCM: git
+  Wanted: n
+
 etcd:
   upstream: https://github.com/etcd-io/etcd.git
   SCM: git
