@@ -83,6 +83,11 @@ abseil-cpp:
   SCM: git
   Wanted: n
 
+acl:
+  upstream: https://git.savannah.nongnu.org/git/acl.git
+  SCM: git
+  Wanted: n
+
 acorn:
   upstream: https://github.com/acornjs/acorn.git
   SCM: git
