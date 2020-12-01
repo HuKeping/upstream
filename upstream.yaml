@@ -403,6 +403,11 @@ cracklib:
   SCM: git
   Wanted: y
 
+cronie:
+  upstream: https://github.com/cronie-crond/cronie.git
+  SCM: git
+  Wanted: n
+
 croniter:
   upstream: https://github.com/taichino/croniter.git
   SCM: git
