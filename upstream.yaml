@@ -78,6 +78,11 @@ abortcontroller-polyfill:
   SCM: git
   Wanted: n
 
+abseil-cpp:
+  upstream: https://github.com/abseil/abseil-cpp.git
+  SCM: git
+  Wanted: n
+
 acorn:
   upstream: https://github.com/acornjs/acorn.git
   SCM: git
