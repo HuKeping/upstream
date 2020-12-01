@@ -233,6 +233,11 @@ bind9:
   SCM: git
   Wanted: n
 
+binutils-gdb:
+  upstream: https://sourceware.org/git/binutils-gdb.git
+  SCM: git
+  Wanted: n
+
 body-parser:
   upstream: https://github.com/expressjs/body-parser.git
   SCM: git
