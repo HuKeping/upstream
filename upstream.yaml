@@ -609,6 +609,11 @@ exfat:
   SCM: git
   Wanted: n
 
+libexpat:
+  upstream: https://github.com/libexpat/libexpat.git
+  SCM: git
+  Wanted: n
+
 fdk-aac:
   upstream: https://github.com/mstorsjo/fdk-aac.git
   SCM: git
