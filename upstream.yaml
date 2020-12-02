@@ -744,6 +744,11 @@ gson:
   SCM: git
   Wanted: n
 
+gzip:
+  upstream: https://git.savannah.gnu.org/git/gzip.git
+  SCM: git
+  Wanted: n
+
 harfbuzz:
   upstream: https://github.com/harfbuzz/harfbuzz.git
   SCM: git
