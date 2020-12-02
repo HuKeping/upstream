@@ -609,11 +609,6 @@ exfat:
   SCM: git
   Wanted: n
 
-libexpat:
-  upstream: https://github.com/libexpat/libexpat.git
-  SCM: git
-  Wanted: n
-
 fdk-aac:
   upstream: https://github.com/mstorsjo/fdk-aac.git
   SCM: git
@@ -726,6 +721,11 @@ go-mysql:
 
 gperftools:
   upstream: https://github.com/gperftools/gperftools.git
+  SCM: git
+  Wanted: n
+
+grep:
+  upstream: https://git.savannah.gnu.org/git/grep.git
   SCM: git
   Wanted: n
 
@@ -1008,6 +1008,11 @@ libevent:
   upstream: https://github.com/libevent/libevent.git
   SCM: git
   Wanted: y
+
+libexpat:
+  upstream: https://github.com/libexpat/libexpat.git
+  SCM: git
+  Wanted: n
 
 libfastjson:
   upstream: https://github.com/rsyslog/libfastjson.git
