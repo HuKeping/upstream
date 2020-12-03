@@ -403,6 +403,11 @@ cracklib:
   SCM: git
   Wanted: y
 
+crash:
+  upstream: https://github.com/crash-utility/crash.git
+  SCM: git
+  Wanted: y
+
 cronie:
   upstream: https://github.com/cronie-crond/cronie.git
   SCM: git
@@ -951,6 +956,11 @@ kafka:
 
 keepalived:
   upstream: https://github.com/acassen/keepalived.git
+  SCM: git
+  Wanted: n
+
+kexec-tools:
+  upstream: https://git.kernel.org/pub/scm/utils/kernel/kexec/kexec-tools.git
   SCM: git
   Wanted: n
 
