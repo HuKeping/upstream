@@ -1409,6 +1409,11 @@ openldap:
   SCM: git
   Wanted: n
 
+openresty:
+  upstream: https://github.com/openresty/openresty.git
+  SCM: git
+  Wanted: n
+
 openssh:
   upstream: https://anongit.mindrot.org/openssh.git
   SCM: git
