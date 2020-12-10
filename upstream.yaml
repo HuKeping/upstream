@@ -1519,6 +1519,11 @@ otp:
   SCM: git
   Wanted: y
 
+ovs:
+  upstream: https://github.com/openvswitch/ovs.git
+  SCM: git
+  Wanted: n
+
 paho.mqtt.c:
   upstream: https://github.com/eclipse/paho.mqtt.c.git
   SCM: git
