@@ -323,6 +323,11 @@ chromium:
   SCM: git
   Wanted: n
 
+cifs-utils:
+  upstream: git://git.samba.org/cifs-utils.git
+  SCM: git
+  Wanted: n
+
 classnames:
   upstream: https://github.com/JedWatson/classnames.git
   SCM: git
@@ -834,6 +839,11 @@ iniparser:
   SCM: git
   Wanted: n
 
+initscripts:
+  upstream: https://github.com/fedora-sysv/initscripts.git
+  SCM: git
+  Wanted: n
+
 inotify-tools:
   upstream: https://github.com/inotify-tools/inotify-tools.git
   SCM: git
@@ -974,6 +984,11 @@ kissfft:
   SCM: git
   Wanted: n
 
+kmod:
+  upstream: https://git.kernel.org/pub/scm/utils/kernel/kmod/kmod.git
+  SCM: git
+  Wanted: n
+
 kpatch:
   upstream: https://github.com/dynup/kpatch.git
   SCM: git
@@ -994,6 +1009,11 @@ kubernetes:
   SCM: git
   Wanted: y
 
+less:
+  upstream: https://github.com/gwsw/less.git
+  SCM: git
+  Wanted: y
+
 lftp:
   upstream: https://github.com/lavv17/lftp.git
   SCM: git
@@ -1001,6 +1021,16 @@ lftp:
 
 libXpm:
   upstream: git://anongit.freedesktop.org/git/xorg/lib/libXpm
+  SCM: git
+  Wanted: n
+
+libaio:
+  upstream: https://pagure.io/libaio.git
+  SCM: git
+  Wanted: n
+
+libcap:
+  upstream: https://git.kernel.org/pub/scm/libs/libcap/libcap.git
   SCM: git
   Wanted: n
 
@@ -1059,6 +1089,11 @@ libgpg-error:
   SCM: git
   Wanted: n
 
+libhugetlbfs:
+  upstream: https://github.com/libhugetlbfs/libhugetlbfs.git
+  SCM: git
+  Wanted: n
+
 libiconv:
   upstream: https://git.savannah.gnu.org/git/libiconv.git
   SCM: git
@@ -1071,6 +1106,11 @@ libjpeg-turbo:
 
 liblinear:
   upstream: https://github.com/cjlin1/liblinear.git
+  SCM: git
+  Wanted: n
+
+libnetconf2:
+  upstream: https://github.com/CESNET/libnetconf2.git
   SCM: git
   Wanted: n
 
@@ -1091,6 +1131,11 @@ libpcap:
 
 libpng:
   upstream: https://github.com/glennrp/libpng.git
+  SCM: git
+  Wanted: n
+
+libpwquality:
+  upstream: https://github.com/libpwquality/libpwquality.git
   SCM: git
   Wanted: n
 
@@ -1136,6 +1181,11 @@ libtpms:
 
 libunwind:
   upstream: https://github.com/libunwind/libunwind.git
+  SCM: git
+  Wanted: n
+
+libusb:
+  upstream: https://github.com/libusb/libusb.git
   SCM: git
   Wanted: n
 
@@ -1206,6 +1256,11 @@ llvm-project:
 
 logging-log4cxx:
   upstream: http://gitbox.apache.org/repos/asf/logging-log4cxx.git
+  SCM: git
+  Wanted: n
+
+logrotate:
+  upstream: https://github.com/logrotate/logrotate.git
   SCM: git
   Wanted: n
 
@@ -1299,6 +1354,11 @@ mtd-utils:
   SCM: git
   Wanted: y
 
+musl:
+  upstream: git://git.musl-libc.org/musl
+  SCM: git
+  Wanted: y
+
 mwe:
   upstream: https://github.com/eclipse/mwe.git
   SCM: git
@@ -1319,6 +1379,11 @@ ncnn:
   SCM: git
   Wanted: n
 
+netbase:
+  upstream: https://salsa.debian.org/md/netbase.git
+  SCM: git
+  Wanted: n
+
 netty:
   upstream: https://github.com/netty/netty.git
   SCM: git
@@ -1333,11 +1398,6 @@ newlib-cygwin:
   upstream: git://sourceware.org/git/newlib-cygwin.git
   SCM: git
   Wanted: n
-
-notary:
-  upstream: https://github.com/theupdateframework/notary.git
-  SCM: git
-  Wanted: y
 
 nfs-utils:
   upstream: git://git.linux-nfs.org/projects/steved/nfs-utils.git
@@ -1363,6 +1423,11 @@ noVNC:
   upstream: https://github.com/novnc/noVNC.git
   SCM: git
   Wanted: n
+
+notary:
+  upstream: https://github.com/theupdateframework/notary.git
+  SCM: git
+  Wanted: y
 
 noto-fonts:
   upstream: https://github.com/googlefonts/noto-fonts.git
@@ -1469,6 +1534,11 @@ pango:
   SCM: git
   Wanted: n
 
+pciutils:
+  upstream: https://git.kernel.org/pub/scm/utils/pciutils/pciutils.git
+  SCM: git
+  Wanted: n
+
 pentaho-kettle:
   upstream: https://github.com/pentaho/pentaho-kettle.git
   SCM: git
@@ -1524,6 +1594,11 @@ popper-core:
   SCM: git
   Wanted: n
 
+popt:
+  upstream: https://github.com/rpm-software-management/popt.git
+  SCM: git
+  Wanted: n
+
 postgis:
   upstream: https://git.osgeo.org/gitea/postgis/postgis.git
   SCM: git
@@ -1566,6 +1641,11 @@ protobuf:
 
 protobuf.js:
   upstream: https://github.com/protobufjs/protobuf.js.git
+  SCM: git
+  Wanted: n
+
+psmisc:
+  upstream: https://gitlab.com/psmisc/psmisc.git
   SCM: git
   Wanted: n
 
@@ -1839,6 +1919,16 @@ runc:
   SCM: git
   Wanted: n
 
+sed:
+  upstream: https://git.savannah.gnu.org/git/sed.git
+  SCM: git
+  Wanted: n
+
+selinux:
+  upstream: https://github.com/SELinuxProject/selinux.git
+  SCM: git
+  Wanted: n
+
 servicecomb-java-chassis:
   upstream: https://gitbox.apache.org/repos/asf/servicecomb-java-chassis.git
   SCM: git
@@ -1924,6 +2014,11 @@ stomp.py:
   SCM: git
   Wanted: n
 
+strace:
+  upstream: https://github.com/strace/strace.git
+  SCM: git
+  Wanted: n
+
 sudo:
   upstream: https://github.com/sudo-project/sudo.git
   SCM: git
@@ -1936,6 +2031,11 @@ syslog-ng:
 
 sysstat:
   upstream: https://github.com/sysstat/sysstat.git
+  SCM: git
+  Wanted: y
+
+systemd:
+  upstream: https://github.com/systemd/systemd.git
   SCM: git
   Wanted: y
 
@@ -2091,6 +2191,11 @@ xz:
 
 xz-java:
   upstream: https://git.tukaani.org/xz-java.git
+  SCM: git
+  Wanted: n
+
+yaffs2:
+  upstream: git://www.aleph1.co.uk/yaffs2
   SCM: git
   Wanted: n
 
