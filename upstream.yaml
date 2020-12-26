@@ -749,6 +749,11 @@ grpc-go:
   SCM: git
   Wanted: n
 
+grub:
+  upstream: https://git.savannah.gnu.org/git/grub.git
+  SCM: git
+  Wanted: n
+
 gson:
   upstream: https://github.com/google/gson.git
   SCM: git
