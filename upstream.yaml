@@ -724,6 +724,11 @@ go:
   SCM: git
   Wanted: n
 
+golang-protobuf:
+  upstream: https://github.com/golang/protobuf.git
+  SCM: git
+  Wanted: n
+
 go-mysql:
   upstream: https://github.com/go-sql-driver/mysql.git
   SCM: git
