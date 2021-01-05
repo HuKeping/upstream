@@ -2165,7 +2165,7 @@ werkzeug:
   Wanted: n
 
 wireshark:
-  upstream: https://code.wireshark.org/review/wireshark.git
+  upstream: https://gitlab.com/wireshark/wireshark.git
   SCM: git
   Wanted: n
 
