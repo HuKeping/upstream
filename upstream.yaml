@@ -1389,6 +1389,11 @@ ncnn:
   SCM: git
   Wanted: n
 
+net-snmp:
+  upstream: https://github.com/net-snmp/net-snmp.git
+  SCM: git
+  Wanted: n
+
 netbase:
   upstream: https://salsa.debian.org/md/netbase.git
   SCM: git
