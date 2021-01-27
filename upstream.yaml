@@ -605,7 +605,7 @@ etcd:
   Wanted: n
 
 ethtool:
-  upstream: git://git.kernel.org/pub/scm/network/ethtool/ethtool.git
+  upstream: https://git.kernel.org/pub/scm/network/ethtool/ethtool.git
   SCM: git
   Wanted: y
 
