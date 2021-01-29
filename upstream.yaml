@@ -594,6 +594,11 @@ ebtables:
   SCM: git
   Wanted: n
 
+echarts:
+  upstream: https://github.com/apache/echarts.git
+  SCM: git
+  Wanted: n
+
 edk2:
   upstream: https://github.com/tianocore/edk2.git
   SCM: git
@@ -831,11 +836,6 @@ hunspell:
 
 ignite:
   upstream: https://github.com/apache/ignite.git
-  SCM: git
-  Wanted: n
-
-incubator-echarts:
-  upstream: https://gitbox.apache.org/repos/asf/incubator-echarts.git
   SCM: git
   Wanted: n
 
