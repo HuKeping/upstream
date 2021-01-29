@@ -58,6 +58,16 @@ MediaSDK:
   SCM: git
   Wanted: n
 
+########################################################################
+#
+# Not mpc for gcc, it's ACE_TAO's (Makefile, Project, and Workspace Creator)
+#
+########################################################################
+MPC:
+  upstream: https://github.com/DOCGroup/MPC.git
+  SCM: git
+  Wanted: n
+
 OpenBLAS:
   upstream: https://github.com/xianyi/OpenBLAS.git
   SCM: git
