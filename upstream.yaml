@@ -1609,6 +1609,11 @@ pjproject:
   SCM: git
   Wanted: n
 
+pkg-config:
+  upstream: git://anongit.freedesktop.org/pkg-config
+  SCM: git
+  Wanted: n
+
 poco:
   upstream: https://github.com/pocoproject/poco.git
   SCM: git
