@@ -1614,6 +1614,11 @@ pkg-config:
   SCM: git
   Wanted: n
 
+pkgconf:
+  upstream: https://github.com/pkgconf/pkgconf.git
+  SCM: git
+  Wanted: n
+
 poco:
   upstream: https://github.com/pocoproject/poco.git
   SCM: git
