@@ -704,6 +704,11 @@ gflags:
   SCM: git
   Wanted: n
 
+git:
+  upstream: https://git.kernel.org/pub/scm/git/git.git
+  SCM: git
+  Wanted: n
+
 glib:
   upstream: https://gitlab.gnome.org/GNOME/glib.git
   SCM: git
