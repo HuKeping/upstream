@@ -1439,6 +1439,11 @@ nghttp2:
   SCM: git
   Wanted: n
 
+nginx:
+  upstream: http://hg.nginx.org/nginx
+  SCM: Mercurial
+  Wanted: n
+
 nginx-upload-module:
   upstream: https://github.com/vkholodkov/nginx-upload-module.git
   SCM: git

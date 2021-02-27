@@ -14,6 +14,7 @@ unshallow_list=(
 
 Mercurial_list=(
 	"https://gmplib.org/repo/gmp"
+	"http://hg.nginx.org/nginx"
 )
 
 declare -A unshallow_array
